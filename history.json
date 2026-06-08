@@ -1,0 +1,47 @@
+{
+  "last_updated": "2026-06-08T00:19:50.300834",
+  "products": {
+    "Nintendo Switch OLED": {
+      "history": [
+        {
+          "timestamp": "2026-06-08T00:19:50.300834",
+          "price": 1162128.75,
+          "store": "Amazon"
+        }
+      ],
+      "best_deal": {
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con",
+        "price": 1162128.75,
+        "original_price": null,
+        "currency": "COP",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Blue-Joy%E2%80%91/dp/B07VGRJDFY",
+        "image": "https://m.media-amazon.com/images/I/51YXZgm0DbL._AC_UY218_.jpg",
+        "store": "Amazon",
+        "free_shipping": false,
+        "condition": "new",
+        "price_cop": 1162128.75
+      }
+    },
+    "Sony WH-1000XM4": {
+      "history": [
+        {
+          "timestamp": "2026-06-08T00:19:50.300834",
+          "price": 825201.5,
+          "store": "Amazon"
+        }
+      ],
+      "best_deal": {
+        "title": "Sony WH-1000XM5 - Auriculares inalámbricos con cancelación de ruido, duración de la batería de 30 horas, estilo sobre la oreja, optimizados para Alexa y Google Assistant, micrófono integrado para",
+        "price": 825201.5,
+        "original_price": null,
+        "currency": "COP",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0CFSD4TSQ",
+        "image": "https://m.media-amazon.com/images/I/511c23mDjoL._AC_UY218_.jpg",
+        "store": "Amazon",
+        "free_shipping": false,
+        "condition": "new",
+        "price_cop": 825201.5
+      }
+    }
+  }
+}

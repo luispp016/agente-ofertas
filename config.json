@@ -1,0 +1,70 @@
+{
+  "currency": "COP",
+  "exchange_rate_fallback": 4000.0,
+  "telegram_enabled": true,
+  "gemini_filter_enabled": false,
+  "products": [
+    {
+      "name": "Nintendo Switch OLED",
+      "search_queries": [
+        "Nintendo Switch OLED 64GB"
+      ],
+      "max_price_cop": 1600000,
+      "min_price_cop": 500000,
+      "exclude_words": [
+        "funda",
+        "estuche",
+        "cargador",
+        "vidrio",
+        "protector",
+        "reparacion",
+        "caja",
+        "sticker",
+        "soporte",
+        "analo",
+        "joystick",
+        "carcasa",
+        "silicona",
+        "grip"
+      ]
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "search_queries": [
+        "Sony WH-1000XM4"
+      ],
+      "max_price_cop": 1200000,
+      "min_price_cop": 400000,
+      "exclude_words": [
+        "almohadillas",
+        "estuche",
+        "funda",
+        "cable",
+        "repuesto",
+        "bateria",
+        "diadema",
+        "caja"
+      ]
+    },
+    {
+      "name": "iPhone 15 128GB",
+      "search_queries": [
+        "iPhone 15 128GB"
+      ],
+      "max_price_cop": 3800000,
+      "min_price_cop": 1500000,
+      "exclude_words": [
+        "funda",
+        "vidrio",
+        "estuche",
+        "dummy",
+        "reparacion",
+        "repuesto",
+        "cargador",
+        "cable",
+        "caja",
+        "protector"
+      ]
+    }
+  ]
+}

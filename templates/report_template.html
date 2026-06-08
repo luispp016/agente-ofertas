@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agente de Ofertas - Dashboard</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Plus+Jakarta+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: rgba(17, 24, 39, 0.65);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --primary: #6366f1;
+            --primary-glow: rgba(99, 102, 241, 0.4);
+            --accent: #d946ef;
+            --accent-glow: rgba(217, 70, 239, 0.4);
+            --success: #10b981;
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --gradient-1: linear-gradient(135deg, #4f46e5 0%, #d946ef 100%);
+            --gradient-2: linear-gradient(135deg, #10b981 0%, #3b82f6 100%);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(at 10% 20%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
+                radial-gradient(at 90% 10%, rgba(217, 70, 239, 0.12) 0px, transparent 50%),
+                radial-gradient(at 50% 80%, rgba(16, 185, 129, 0.08) 0px, transparent 50%);
+            background-attachment: fixed;
+        }
+
+        header {
+            padding: 2.5rem 2rem 1.5rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .logo i {
+            font-size: 2.2rem;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 0 10px var(--primary-glow));
+        }
+
+        .logo h1 {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 800;
+            font-size: 1.8rem;
+            letter-spacing: -0.5px;
+            background: linear-gradient(180deg, #ffffff 0%, #cbd5e1 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .update-badge {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 0.5rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .update-badge i {
+            color: var(--success);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.2); opacity: 0.5; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        main {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .summary-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 24px;
+            padding: 1.5rem;
+            backdrop-filter: blur(16px);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+        }
+
+        .summary-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(99, 102, 241, 0.3);
+            box-shadow: 0 10px 30px -10px rgba(99, 102, 241, 0.2);
+        }
+
+        .summary-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--gradient-1);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .card-title-container h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 0.25rem;
+        }
+
+        .card-title-container span {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .store-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .badge-mercadolibre { background: rgba(255, 230, 0, 0.15); color: #ffe600; border: 1px solid rgba(255, 230, 0, 0.3); }
+        .badge-amazon { background: rgba(255, 153, 0, 0.15); color: #ff9900; border: 1px solid rgba(255, 153, 0, 0.3); }
+        .badge-ebay { background: rgba(0, 100, 246, 0.15); color: #3b82f6; border: 1px solid rgba(0, 100, 246, 0.3); }
+        .badge-aliexpress { background: rgba(255, 71, 0, 0.15); color: #ff4700; border: 1px solid rgba(255, 71, 0, 0.3); }
+
+        .card-body {
+            display: flex;
+            gap: 1.25rem;
+            align-items: center;
+        }
+
+        .product-img-wrapper {
+            width: 90px;
+            height: 90px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .product-img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            border-radius: 8px;
+        }
+
+        .price-details {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .price-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+        }
+
+        .current-price {
+            font-size: 1.6rem;
+            font-weight: 800;
+            color: #ffffff;
+            font-family: 'Outfit', sans-serif;
+            background: linear-gradient(135deg, #ffffff 30%, #a5b4fc 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .original-price {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            text-decoration: line-through;
+        }
+
+        .shipping-info {
+            font-size: 0.8rem;
+            color: var(--success);
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+            margin-top: 0.25rem;
+        }
+
+        .card-actions {
+            margin-top: auto;
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.25rem;
+            border-radius: 14px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+        }
+
+        .btn-primary {
+            background: var(--gradient-1);
+            color: #white;
+            border: none;
+            flex-grow: 1;
+            box-shadow: 0 4px 15px var(--primary-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(99, 102, 241, 0.6);
+            filter: brightness(1.1);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            color: var(--text-main);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+
+        .details-section {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 28px;
+            padding: 2.5rem;
+            margin-bottom: 3rem;
+            backdrop-filter: blur(16px);
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .section-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .section-title i {
+            color: var(--primary);
+        }
+
+        .tabs-nav {
+            display: flex;
+            gap: 0.5rem;
+            background: rgba(255, 255, 255, 0.03);
+            padding: 0.35rem;
+            border-radius: 14px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .tab-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            padding: 0.6rem 1.2rem;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .tab-btn.active {
+            background: var(--primary);
+            color: white;
+            box-shadow: 0 4px 10px var(--primary-glow);
+        }
+
+        .tab-btn:hover:not(.active) {
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.4s ease forwards;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .details-grid {
+            display: grid;
+            grid-template-columns: 1.2fr 0.8fr;
+            gap: 2.5rem;
+        }
+
+        @media (max-width: 1024px) {
+            .details-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            background: rgba(255, 255, 255, 0.01);
+            border-radius: 18px;
+            border: 1px solid rgba(255, 255, 255, 0.04);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            font-size: 0.95rem;
+        }
+
+        th {
+            background: rgba(255, 255, 255, 0.02);
+            padding: 1rem 1.25rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            padding: 1.1rem 1.25rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+            color: var(--text-main);
+            vertical-align: middle;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background: rgba(255, 255, 255, 0.01);
+        }
+
+        .table-product-cell {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .table-product-cell img {
+            width: 45px;
+            height: 45px;
+            object-fit: contain;
+            border-radius: 8px;
+            background: white;
+            padding: 2px;
+        }
+
+        .table-product-title {
+            font-weight: 500;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            max-width: 350px;
+        }
+
+        .table-price {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
+        }
+
+        .chart-container {
+            background: rgba(255, 255, 255, 0.01);
+            border-radius: 18px;
+            border: 1px solid rgba(255, 255, 255, 0.04);
+            padding: 1.5rem;
+            height: 350px;
+            position: relative;
+        }
+
+        footer {
+            text-align: center;
+            padding: 3rem 1.5rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <i class="fa-solid fa-robot"></i>
+            <h1>Agente de Ofertas</h1>
+        </div>
+        <div class="update-badge">
+            <i class="fa-solid fa-circle"></i>
+            Actualizado: <span id="last-updated-text">{{ last_updated }}</span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Best Offers Summary Grid -->
+        <h2 style="font-family: 'Outfit', sans-serif; margin-bottom: 1.5rem; font-size: 1.6rem;">
+            🎯 Mejores Ofertas Encontradas
+        </h2>
+        
+        <div class="summary-cards">
+            {% for prod in products_summary %}
+            <div class="summary-card">
+                <div class="card-header">
+                    <div class="card-title-container">
+                        <h3>{{ prod.name }}</h3>
+                        <span>Mejor precio comparado</span>
+                    </div>
+                    <span class="store-badge badge-{{ prod.best_deal.store | lower }}">
+                        {{ prod.best_deal.store }}
+                    </span>
+                </div>
+                
+                <div class="card-body">
+                    <div class="product-img-wrapper">
+                        {% if prod.best_deal.image %}
+                        <img src="{{ prod.best_deal.image }}" alt="{{ prod.best_deal.title }}" class="product-img">
+                        {% else %}
+                        <div style="font-size: 1.5rem; color: var(--text-muted);"><i class="fa-solid fa-image"></i></div>
+                        {% endif %}
+                    </div>
+                    <div class="price-details">
+                        <span class="price-label">Precio Mínimo</span>
+                        <span class="current-price">{{ prod.best_deal.price_cop_formatted }} COP</span>
+                        {% if prod.best_deal.original_price_formatted %}
+                        <span class="original-price">{{ prod.best_deal.original_price_formatted }} COP</span>
+                        {% endif %}
+                        {% if prod.best_deal.free_shipping %}
+                        <span class="shipping-info"><i class="fa-solid fa-truck-fast"></i> Envío Gratis</span>
+                        {% endif %}
+                    </div>
+                </div>
+                
+                <div class="card-actions">
+                    <a href="{{ prod.best_deal.url }}" target="_blank" class="btn btn-primary">
+                        <i class="fa-solid fa-cart-shopping"></i> Comprar
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Comparative Tables and Charts Section -->
+        <div class="details-section">
+            <div class="section-header">
+                <div class="section-title">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <h2>Comparativa Detallada</h2>
+                </div>
+                <div class="tabs-nav">
+                    {% for prod in products_summary %}
+                    <button class="tab-btn {% if loop.first %}active{% endif %}" onclick="openTab(event, 'tab-{{ loop.index0 }}')">
+                        {{ prod.name }}
+                    </button>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {% for prod in products_summary %}
+            <div id="tab-{{ loop.index0 }}" class="tab-content {% if loop.first %}active{% endif %}">
+                <div class="details-grid">
+                    <!-- Table -->
+                    <div>
+                        <h3 style="margin-bottom: 1rem; font-size: 1.1rem; color: var(--text-muted);">
+                            Todos los resultados filtrados (ordenados por precio)
+                        </h3>
+                        <div class="table-container">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Producto</th>
+                                        <th>Tienda</th>
+                                        <th>Precio (COP)</th>
+                                        <th>Envío</th>
+                                        <th>Acción</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for deal in prod.all_deals %}
+                                    <tr>
+                                        <td>
+                                            <div class="table-product-cell">
+                                                {% if deal.image %}
+                                                <img src="{{ deal.image }}" alt="{{ deal.title }}">
+                                                {% else %}
+                                                <div style="width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; background: rgba(255,255,255,0.05); border-radius: 8px;"><i class="fa-solid fa-image"></i></div>
+                                                {% endif %}
+                                                <span class="table-product-title" title="{{ deal.title }}">{{ deal.title }}</span>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <span class="store-badge badge-{{ deal.store | lower }}">
+                                                {{ deal.store }}
+                                            </span>
+                                        </td>
+                                        <td>
+                                            <span class="table-price">{{ deal.price_cop_formatted }}</span>
+                                        </td>
+                                        <td>
+                                            {% if deal.free_shipping %}
+                                            <span style="color: var(--success); font-size: 0.85rem;"><i class="fa-solid fa-circle-check"></i> Gratis</span>
+                                            {% else %}
+                                            <span style="color: var(--text-muted); font-size: 0.85rem;">No incl.</span>
+                                            {% endif %}
+                                        </td>
+                                        <td>
+                                            <a href="{{ deal.url }}" target="_blank" class="btn btn-secondary" style="padding: 0.4rem 0.8rem; font-size: 0.8rem; border-radius: 8px;">
+                                                Ir a tienda
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Chart -->
+                    <div>
+                        <h3 style="margin-bottom: 1rem; font-size: 1.1rem; color: var(--text-muted);">
+                            Historial de Precio Mínimo (COP)
+                        </h3>
+                        <div class="chart-container">
+                            <canvas id="chart-{{ loop.index0 }}"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+
+    <footer>
+        <p>Generado automáticamente con 🤖 por tu Agente IA personal de Ofertas.</p>
+        <p style="margin-top: 0.5rem; font-size: 0.75rem;">Código del proyecto en <a href="https://github.com" target="_blank">GitHub</a></p>
+    </footer>
+
+    <script>
+        function openTab(evt, tabId) {
+            // Declare all variables
+            var i, tabcontent, tablinks;
+
+            // Get all elements with class="tab-content" and hide them
+            tabcontent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].classList.remove("active");
+            }
+
+            // Get all elements with class="tab-btn" and remove the class "active"
+            tablinks = document.getElementsByClassName("tab-btn");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].classList.remove("active");
+            }
+
+            // Show the current tab, and add an "active" class to the button that opened the tab
+            document.getElementById(tabId).classList.add("active");
+            evt.currentTarget.classList.add("active");
+        }
+
+        // Render charts dynamically using injected JSON data
+        document.addEventListener("DOMContentLoaded", function() {
+            const historyData = {{ history_json_str | safe }};
+            const productNames = [{% for prod in products_summary %}"{{ prod.name }}",{% endfor %}];
+            
+            productNames.forEach((name, index) => {
+                const ctx = document.getElementById('chart-' + index);
+                if (!ctx) return;
+                
+                const prodHistory = (historyData.products && historyData.products[name]) 
+                    ? historyData.products[name].history 
+                    : [];
+                
+                // Sort history by timestamp
+                prodHistory.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
+                
+                // Format labels and prices
+                const labels = prodHistory.map(h => {
+                    const date = new Date(h.timestamp);
+                    return date.toLocaleDateString('es-CO', {month: 'short', day: 'numeric', hour: '2-digit', minute:'2-digit'});
+                });
+                const data = prodHistory.map(h => h.price);
+                const stores = prodHistory.map(h => h.store || 'Oferta');
+
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Precio Mínimo (COP)',
+                            data: data,
+                            borderColor: '#6366f1',
+                            backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                            borderWidth: 3,
+                            fill: true,
+                            tension: 0.3,
+                            pointBackgroundColor: '#d946ef',
+                            pointBorderColor: '#ffffff',
+                            pointHoverRadius: 7,
+                            pointRadius: 4
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        let label = context.dataset.label || '';
+                                        if (label) {
+                                            label += ': ';
+                                        }
+                                        if (context.parsed.y !== null) {
+                                            label += new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', maximumFractionDigits: 0 }).format(context.parsed.y);
+                                        }
+                                        const store = stores[context.dataIndex];
+                                        return [label, 'Tienda: ' + store];
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            y: {
+                                grid: {
+                                    color: 'rgba(255, 255, 255, 0.05)'
+                                },
+                                ticks: {
+                                    color: '#9ca3af',
+                                    font: {
+                                        family: 'Plus Jakarta Sans'
+                                    },
+                                    callback: function(value) {
+                                        return new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', maximumFractionDigits: 0 }).format(value);
+                                    }
+                                }
+                            },
+                            x: {
+                                grid: {
+                                    display: false
+                                },
+                                ticks: {
+                                    color: '#9ca3af',
+                                    font: {
+                                        family: 'Plus Jakarta Sans',
+                                        size: 9
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
