@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T03:53:18.976831",
+  "last_updated": "2026-06-09T15:14:00.401274",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -17,19 +17,24 @@
           "timestamp": "2026-06-09T03:53:18.976831",
           "price": 763256.88292615,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-06-09T15:14:00.401274",
+          "price": 807031.1152959999,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 211.85,
+        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
+        "price": 224.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
-        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 763256.88292615
+        "price_cop": 807031.1152959999
       }
     },
     "Sony WH-1000XM4": {
@@ -74,19 +79,24 @@
           "timestamp": "2026-06-09T03:53:18.976831",
           "price": 1520388.976138,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-06-09T15:14:00.401274",
+          "price": 1509580.523701,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128 GB, verde - Desbloqueado (reacondicionado)",
-        "price": 422.0,
+        "title": "Apple iPhone 15, 128 GB, negro, desbloqueado (reacondicionado)",
+        "price": 419.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-verde-reacondicionado/dp/B0CMPMTL69",
-        "image": "https://m.media-amazon.com/images/I/51HaS1fqwzL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-negro-desbloqueado-reacondicionado/dp/B0CMPMY9ZZ",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1520388.976138
+        "price_cop": 1509580.523701
       }
     }
   }
