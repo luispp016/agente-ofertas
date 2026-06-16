@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T17:22:32.533191",
+  "last_updated": "2026-06-16T04:47:09.793516",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -37,19 +37,24 @@
           "timestamp": "2026-06-14T04:26:05.377577",
           "price": 795184.998272,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-06-16T04:47:09.793516",
+          "price": 739069.3139751999,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 224.0,
+        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
+        "price": 211.9,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
+        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 795184.998272
+        "price_cop": 739069.3139751999
       }
     },
     "Sony WH-1000XM4": {
@@ -83,19 +88,24 @@
           "timestamp": "2026-06-14T14:11:09.800582",
           "price": 532454.45486972,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-06-16T04:47:09.793516",
+          "price": 798711.056632,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 149.99,
+        "title": "Sony WH-1000XM5 - Auriculares inalámbricos con cancelación de ruido, duración de la batería de 30 horas, estilo sobre la oreja, optimizados para Alexa y Google Assistant, micrófono integrado para",
+        "price": 229.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
-        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0CFSD4TSQ",
+        "image": "https://m.media-amazon.com/images/I/511c23mDjoL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 532454.45486972
+        "price_cop": 798711.056632
       }
     },
     "iPhone 15 128GB": {
@@ -134,19 +144,24 @@
           "timestamp": "2026-06-14T14:11:09.800582",
           "price": 1544185.36784972,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-06-16T04:47:09.793516",
+          "price": 1513540.0132115998,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128 GB, negro, desbloqueado (reacondicionado)",
-        "price": 434.99,
+        "title": "Apple iPhone 15, 128 GB, rosado, desbloqueado (reacondicionado)",
+        "price": 433.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-negro-desbloqueado-reacondicionado/dp/B0CMPMY9ZZ",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-rosado-desbloqueado-reacondicionado/dp/B0CMPLN52T",
+        "image": "https://m.media-amazon.com/images/I/51cWm-u5u0L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1544185.36784972
+        "price_cop": 1513540.0132115998
       }
     }
   }
