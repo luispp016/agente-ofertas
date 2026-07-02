@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T03:54:06.117383",
+  "last_updated": "2026-07-02T14:12:55.786694",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -219,19 +219,24 @@
           "timestamp": "2026-07-02T03:54:06.117383",
           "price": 1505045.51730895,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-02T14:12:55.786694",
+          "price": 1564709.88248829,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Plus, 128 GB, negro, desbloqueado (reacondicionado)",
-        "price": 442.45,
+        "title": "Apple iPhone 15 Plus, 128 GB, rosado, desbloqueado (reacondicionado)",
+        "price": 459.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-negro-desbloqueado-reacondicionado/dp/B0CMT4XDSC",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-rosado-desbloqueado-reacondicionado/dp/B0CMSYHFCF",
+        "image": "https://m.media-amazon.com/images/I/61E3eOImi2L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1505045.51730895
+        "price_cop": 1564709.88248829
       }
     }
   }
