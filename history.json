@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T13:40:55.254353",
+  "last_updated": "2026-07-05T03:47:01.599874",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -72,19 +72,24 @@
           "timestamp": "2026-07-04T03:29:12.950261",
           "price": 745512.69593889,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-05T03:47:01.599874",
+          "price": 525223.04523095,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 219.99,
+        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
+        "price": 154.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
+        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 745512.69593889
+        "price_cop": 525223.04523095
       }
     },
     "Sony WH-1000XM4": {
@@ -148,19 +153,24 @@
           "timestamp": "2026-07-04T03:29:12.950261",
           "price": 546824.53119096,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-05T03:47:01.599874",
+          "price": 660773.2214309501,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
-        "price": 161.36,
+        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
+        "price": 194.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
-        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
+        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 546824.53119096
+        "price_cop": 660773.2214309501
       }
     },
     "iPhone 15 128GB": {
