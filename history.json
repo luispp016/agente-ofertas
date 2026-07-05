@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T03:47:01.599874",
+  "last_updated": "2026-07-05T13:47:47.820069",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -77,11 +77,16 @@
           "timestamp": "2026-07-05T03:47:01.599874",
           "price": 525223.04523095,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-05T13:47:47.820069",
+          "price": 525189.1576869,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
-        "price": 154.99,
+        "price": 154.98,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
@@ -89,7 +94,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 525223.04523095
+        "price_cop": 525189.1576869
       }
     },
     "Sony WH-1000XM4": {
@@ -158,19 +163,24 @@
           "timestamp": "2026-07-05T03:47:01.599874",
           "price": 660773.2214309501,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-05T13:47:47.820069",
+          "price": 474391.7291559501,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 194.99,
+        "title": "Sony WH-1000XM4 - Auriculares inalámbricos con cancelación de ruido, color plateado",
+        "price": 139.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
-        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HHT4YZ1",
+        "image": "https://m.media-amazon.com/images/I/71a5XAAbzbL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 660773.2214309501
+        "price_cop": 474391.7291559501
       }
     },
     "iPhone 15 128GB": {
@@ -249,19 +259,24 @@
           "timestamp": "2026-07-04T03:29:12.950261",
           "price": 1524642.7651389,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-05T13:47:47.820069",
+          "price": 1524905.59470595,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Plus, 128 GB, azul, desbloqueado (reacondicionado)",
-        "price": 449.9,
+        "title": "Apple iPhone 15 Plus, 128 GB, negro, desbloqueado (reacondicionado)",
+        "price": 449.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-desbloqueado-reacondicionado/dp/B0CMT39J9B",
-        "image": "https://m.media-amazon.com/images/I/51-RPOw693L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-negro-desbloqueado-reacondicionado/dp/B0CMT4XDSC",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1524642.7651389
+        "price_cop": 1524905.59470595
       }
     }
   }
