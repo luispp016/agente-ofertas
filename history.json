@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T03:54:47.075511",
+  "last_updated": "2026-07-06T15:40:50.120116",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -279,19 +279,24 @@
           "timestamp": "2026-07-06T03:54:47.075511",
           "price": 1614312.279385,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-06T15:40:50.120116",
+          "price": 1510069.9937349001,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
-        "price": 481.0,
+        "title": "Apple iPhone 15 Plus, 128 GB, negro, desbloqueado (reacondicionado)",
+        "price": 449.94,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
-        "image": "https://m.media-amazon.com/images/I/51KLILQ67nL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-negro-desbloqueado-reacondicionado/dp/B0CMT4XDSC",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1614312.279385
+        "price_cop": 1510069.9937349001
       }
     }
   }
