@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T03:44:57.559404",
+  "last_updated": "2026-07-07T14:44:08.959509",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -92,11 +92,16 @@
           "timestamp": "2026-07-07T03:44:57.559404",
           "price": 715680.098992,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-07T14:44:08.959509",
+          "price": 700630.751116,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 214.0,
+        "price": 209.5,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
@@ -104,7 +109,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 715680.098992
+        "price_cop": 700630.751116
       }
     },
     "Sony WH-1000XM4": {
@@ -188,19 +193,24 @@
           "timestamp": "2026-07-07T03:44:57.559404",
           "price": 468168.49092472,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-07T14:44:08.959509",
+          "price": 428070.339584,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 - Auriculares inalámbricos con cancelación de ruido, color plateado",
-        "price": 139.99,
+        "title": "Sony WH-CH720N Auriculares inalámbricos con cancelación de ruido Bluetooth sobre la oreja con micrófono y Alexa incorporado, Negro Nuevo",
+        "price": 128.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HHT4YZ1",
-        "image": "https://m.media-amazon.com/images/I/71a5XAAbzbL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n-incorporado/dp/B0BS1QCFHX",
+        "image": "https://m.media-amazon.com/images/I/51rpbVmi9XL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 468168.49092472
+        "price_cop": 428070.339584
       }
     },
     "iPhone 15 128GB": {
