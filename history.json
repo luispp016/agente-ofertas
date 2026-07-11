@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T02:53:45.778823",
+  "last_updated": "2026-07-11T13:26:51.334784",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -243,11 +243,16 @@
           "timestamp": "2026-07-11T02:53:45.778823",
           "price": 641732.7504,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-11T13:26:51.334784",
+          "price": 467361.92962725007,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 192.0,
+        "price": 139.83,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
@@ -255,7 +260,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 641732.7504
+        "price_cop": 467361.92962725007
       }
     },
     "iPhone 15 128GB": {
@@ -379,11 +384,16 @@
           "timestamp": "2026-07-11T02:53:45.778823",
           "price": 1755573.57889375,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-11T13:26:51.334784",
+          "price": 1753534.740468,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
-        "price": 525.25,
+        "price": 524.64,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
@@ -391,7 +401,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1755573.57889375
+        "price_cop": 1753534.740468
       }
     }
   }
