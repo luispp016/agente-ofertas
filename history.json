@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T03:18:44.052030",
+  "last_updated": "2026-07-12T13:27:26.099496",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -253,19 +253,24 @@
           "timestamp": "2026-07-11T13:26:51.334784",
           "price": 467361.92962725007,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-12T13:27:26.099496",
+          "price": 467892.88449230004,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 139.83,
+        "title": "Sony WH-1000XM4 - Auriculares inalámbricos con cancelación de ruido, color plateado",
+        "price": 139.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
-        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HHT4YZ1",
+        "image": "https://m.media-amazon.com/images/I/71a5XAAbzbL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 467361.92962725007
+        "price_cop": 467892.88449230004
       }
     },
     "iPhone 15 128GB": {
@@ -394,19 +399,24 @@
           "timestamp": "2026-07-11T13:26:51.334784",
           "price": 1753534.740468,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-12T13:27:26.099496",
+          "price": 1617922.0558338999,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
-        "price": 524.64,
+        "title": "Apple iPhone 15, 128GB, rosa - desbloqueado (renovado prémium)",
+        "price": 484.07,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
-        "image": "https://m.media-amazon.com/images/I/81KOaMd4-6L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-rosa-desbloqueado/dp/B0CRJ1LWT5",
+        "image": "https://m.media-amazon.com/images/I/51cWm-u5u0L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1753534.740468
+        "price_cop": 1617922.0558338999
       }
     }
   }
