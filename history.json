@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T03:21:38.462978",
+  "last_updated": "2026-07-13T14:41:37.502892",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -132,11 +132,16 @@
           "timestamp": "2026-07-13T03:21:38.462978",
           "price": 688039.39407,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-13T14:41:37.502892",
+          "price": 697868.528271,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 210.0,
+        "price": 213.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
@@ -144,7 +149,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 688039.39407
+        "price_cop": 697868.528271
       }
     },
     "Sony WH-1000XM4": {
@@ -268,19 +273,24 @@
           "timestamp": "2026-07-13T03:21:38.462978",
           "price": 638860.95928433,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-13T14:41:37.502892",
+          "price": 484903.953916,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 194.99,
+        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X",
+        "price": 148.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
-        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 638860.95928433
+        "price_cop": 484903.953916
       }
     },
     "iPhone 15 128GB": {
@@ -419,19 +429,24 @@
           "timestamp": "2026-07-13T03:21:38.462978",
           "price": 1536621.313423,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-13T14:41:37.502892",
+          "price": 1796896.7870654801,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 469.0,
+        "title": "Apple iPhone 15 Pro, 128GB, Negro Titanio - Desbloqueado (Renovado)",
+        "price": 548.44,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-Negro-Titanio/dp/B0CMZKHTQM",
+        "image": "https://m.media-amazon.com/images/I/71hDhuRKjqL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1536621.313423
+        "price_cop": 1796896.7870654801
       }
     }
   }
