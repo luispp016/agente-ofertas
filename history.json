@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T02:44:30.203896",
+  "last_updated": "2026-07-15T13:49:32.553731",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -147,6 +147,11 @@
           "timestamp": "2026-07-14T13:51:36.299750",
           "price": 690932.0765580001,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-15T13:49:32.553731",
+          "price": 690252.897303,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -159,7 +164,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 690932.0765580001
+        "price_cop": 690252.897303
       }
     },
     "Sony WH-1000XM4": {
@@ -293,19 +298,24 @@
           "timestamp": "2026-07-14T02:45:59.282377",
           "price": 632511.01224434,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-15T13:49:32.553731",
+          "price": 479612.341788,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 194.99,
+        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X | Modos de graves de botón Ult, sensor de ruido dual Anc, 30h Anc-on, Bluetooth 5.2 con Ldac, multipunto, Alexa incorporado",
+        "price": 148.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
-        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 632511.01224434
+        "price_cop": 479612.341788
       }
     },
     "iPhone 15 128GB": {
@@ -454,19 +464,24 @@
           "timestamp": "2026-07-14T02:45:59.282377",
           "price": 1660053.51877616,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-15T13:49:32.553731",
+          "price": 1772621.2902570001,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
-        "price": 511.76,
+        "title": "Apple iPhone 15 Pro, 128 GB, titanio natural - Desbloqueado (Renovado)",
+        "price": 547.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
-        "image": "https://m.media-amazon.com/images/I/51KLILQ67nL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-titanio-natural/dp/B0CMZG4M6H",
+        "image": "https://m.media-amazon.com/images/I/51FQd2r15rL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1660053.51877616
+        "price_cop": 1772621.2902570001
       }
     }
   }
