@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T13:49:32.553731",
+  "last_updated": "2026-07-16T02:50:53.045930",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -152,11 +152,16 @@
           "timestamp": "2026-07-15T13:49:32.553731",
           "price": 690252.897303,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-16T02:50:53.045930",
+          "price": 698120.3662650001,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 213.0,
+        "price": 215.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
@@ -164,7 +169,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 690252.897303
+        "price_cop": 698120.3662650001
       }
     },
     "Sony WH-1000XM4": {
@@ -303,6 +308,11 @@
           "timestamp": "2026-07-15T13:49:32.553731",
           "price": 479612.341788,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-16T02:50:53.045930",
+          "price": 480566.577708,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -315,7 +325,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 479612.341788
+        "price_cop": 480566.577708
       }
     },
     "iPhone 15 128GB": {
@@ -469,19 +479,24 @@
           "timestamp": "2026-07-15T13:49:32.553731",
           "price": 1772621.2902570001,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-16T02:50:53.045930",
+          "price": 1645680.76293222,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128 GB, titanio natural - Desbloqueado (Renovado)",
-        "price": 547.0,
+        "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
+        "price": 506.82,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-titanio-natural/dp/B0CMZG4M6H",
-        "image": "https://m.media-amazon.com/images/I/51FQd2r15rL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
+        "image": "https://m.media-amazon.com/images/I/51NBmLjZyBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1772621.2902570001
+        "price_cop": 1645680.76293222
       }
     }
   }
