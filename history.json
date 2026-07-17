@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T14:00:59.806276",
+  "last_updated": "2026-07-17T02:53:23.721247",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -157,19 +157,24 @@
           "timestamp": "2026-07-16T02:50:53.045930",
           "price": 698120.3662650001,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-17T02:53:23.721247",
+          "price": 556757.4581575401,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 215.0,
+        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
+        "price": 172.58,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
+        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 698120.3662650001
+        "price_cop": 556757.4581575401
       }
     },
     "Sony WH-1000XM4": {
@@ -313,19 +318,24 @@
           "timestamp": "2026-07-16T02:50:53.045930",
           "price": 480566.577708,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-17T02:53:23.721247",
+          "price": 629053.9852018701,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X | Modos de graves de botón Ult, sensor de ruido dual Anc, 30h Anc-on, Bluetooth 5.2 con Ldac, multipunto, Alexa incorporado",
-        "price": 148.0,
+        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
+        "price": 194.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
-        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
+        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 480566.577708
+        "price_cop": 629053.9852018701
       }
     },
     "iPhone 15 128GB": {
@@ -484,11 +494,16 @@
           "timestamp": "2026-07-16T02:50:53.045930",
           "price": 1645680.76293222,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-17T02:53:23.721247",
+          "price": 1636301.71718673,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
-        "price": 506.82,
+        "price": 507.21,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
@@ -496,7 +511,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1645680.76293222
+        "price_cop": 1636301.71718673
       }
     }
   }
