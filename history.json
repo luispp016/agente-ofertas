@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:22:51.293062",
+  "last_updated": "2026-07-19T03:16:58.683791",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -172,11 +172,16 @@
           "timestamp": "2026-07-18T13:22:51.293062",
           "price": 555197.8521837,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-19T03:16:58.683791",
+          "price": 554528.32675032,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
-        "price": 172.15,
+        "price": 171.96,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
@@ -184,7 +189,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 555197.8521837
+        "price_cop": 554528.32675032
       }
     },
     "Sony WH-1000XM4": {
@@ -348,19 +353,24 @@
           "timestamp": "2026-07-18T13:22:51.293062",
           "price": 515980.85606082,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-19T03:16:58.683791",
+          "price": 477263.27261600003,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado) | Industry-Leading Noise Canceling, Auto Nc Optimizer, Up to 30-Hr Battery, Multipoint Bt, Ldac and Aac and Sbc, USB-C",
-        "price": 159.99,
+        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X | Modos de graves de botón Ult, sensor de ruido dual Anc, 30h Anc-on, Bluetooth 5.2 con Ldac, multipunto, Alexa incorporado",
+        "price": 148.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
-        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 515980.85606082
+        "price_cop": 477263.27261600003
       }
     },
     "iPhone 15 128GB": {
@@ -539,19 +549,24 @@
           "timestamp": "2026-07-18T13:22:51.293062",
           "price": 1548426.3304701599,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-19T03:16:58.683791",
+          "price": 2479834.1664980003,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128 GB, azul - desbloqueado (reacondicionado prémium)",
-        "price": 480.12,
+        "title": "Apple iPhone 15 / 128 GB / Negro (sin SIM)",
+        "price": 769.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-azul-reacondicionado/dp/B0CRJ1JNNS",
-        "image": "https://m.media-amazon.com/images/I/51-RPOw693L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-Negro-sin/dp/B0CN1MTVGF",
+        "image": "https://m.media-amazon.com/images/I/612mSuve9bL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1548426.3304701599
+        "price_cop": 2479834.1664980003
       }
     }
   }
