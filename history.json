@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T03:16:58.683791",
+  "last_updated": "2026-07-19T13:24:21.559107",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -177,19 +177,24 @@
           "timestamp": "2026-07-19T03:16:58.683791",
           "price": 554528.32675032,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-19T13:24:21.559107",
+          "price": 661009.63257316,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
-        "price": 171.96,
+        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
+        "price": 204.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
-        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 554528.32675032
+        "price_cop": 661009.63257316
       }
     },
     "Sony WH-1000XM4": {
@@ -554,19 +559,24 @@
           "timestamp": "2026-07-19T03:16:58.683791",
           "price": 2479834.1664980003,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-19T13:24:21.559107",
+          "price": 1750975.7551691602,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 / 128 GB / Negro (sin SIM)",
-        "price": 769.0,
+        "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
+        "price": 542.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-Negro-sin/dp/B0CN1MTVGF",
-        "image": "https://m.media-amazon.com/images/I/612mSuve9bL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
+        "image": "https://m.media-amazon.com/images/I/81KOaMd4-6L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 2479834.1664980003
+        "price_cop": 1750975.7551691602
       }
     }
   }
