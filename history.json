@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T03:29:50.939775",
+  "last_updated": "2026-07-20T14:12:41.039538",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -187,19 +187,24 @@
           "timestamp": "2026-07-20T03:29:50.939775",
           "price": 649646.7988229999,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-20T14:12:41.039538",
+          "price": 665889.593073,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 199.98,
+        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
+        "price": 204.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
-        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 649646.7988229999
+        "price_cop": 665889.593073
       }
     },
     "Sony WH-1000XM4": {
@@ -373,19 +378,24 @@
           "timestamp": "2026-07-20T03:29:50.939775",
           "price": 480786.7098,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-20T14:12:41.039538",
+          "price": 519736.93041150004,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X | Modos de graves de botón Ult, sensor de ruido dual Anc, 30h Anc-on, Bluetooth 5.2 con Ldac, multipunto, Alexa incorporado",
-        "price": 148.0,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado) | Industry-Leading Noise Canceling, Auto Nc Optimizer, Up to 30-Hr Battery, Multipoint Bt, Ldac and Aac and Sbc, USB-C",
+        "price": 159.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
-        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 480786.7098
+        "price_cop": 519736.93041150004
       }
     },
     "iPhone 15 128GB": {
