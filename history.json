@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T14:12:41.039538",
+  "last_updated": "2026-07-21T02:56:08.674885",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -192,11 +192,16 @@
           "timestamp": "2026-07-20T14:12:41.039538",
           "price": 665889.593073,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-21T02:56:08.674885",
+          "price": 739211.2550798999,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 204.98,
+        "price": 226.95,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
@@ -204,7 +209,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 665889.593073
+        "price_cop": 739211.2550798999
       }
     },
     "Sony WH-1000XM4": {
@@ -383,6 +388,11 @@
           "timestamp": "2026-07-20T14:12:41.039538",
           "price": 519736.93041150004,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-21T02:56:08.674885",
+          "price": 521112.17757318,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -395,7 +405,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 519736.93041150004
+        "price_cop": 521112.17757318
       }
     },
     "iPhone 15 128GB": {
@@ -589,11 +599,16 @@
           "timestamp": "2026-07-20T03:29:50.939775",
           "price": 1572399.9401655,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-21T02:56:08.674885",
+          "price": 1595908.07953954,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 484.03,
+        "price": 489.97,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
@@ -601,7 +616,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1572399.9401655
+        "price_cop": 1595908.07953954
       }
     }
   }
