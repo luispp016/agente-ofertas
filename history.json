@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T02:53:51.964795",
+  "last_updated": "2026-07-22T14:03:09.160565",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -197,19 +197,24 @@
           "timestamp": "2026-07-21T02:56:08.674885",
           "price": 739211.2550798999,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-22T14:03:09.160565",
+          "price": 650094.63063534,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 226.95,
+        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
+        "price": 199.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
+        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 739211.2550798999
+        "price_cop": 650094.63063534
       }
     },
     "Sony WH-1000XM4": {
@@ -393,6 +398,11 @@
           "timestamp": "2026-07-21T02:56:08.674885",
           "price": 521112.17757318,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-22T14:03:09.160565",
+          "price": 520095.20929767005,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -405,7 +415,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 521112.17757318
+        "price_cop": 520095.20929767005
       }
     },
     "iPhone 15 128GB": {
@@ -604,11 +614,16 @@
           "timestamp": "2026-07-21T02:56:08.674885",
           "price": 1595908.07953954,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-22T14:03:09.160565",
+          "price": 1524624.371277,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 489.97,
+        "price": 469.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
@@ -616,7 +631,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1595908.07953954
+        "price_cop": 1524624.371277
       }
     }
   }
