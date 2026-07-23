@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T03:15:27.356211",
+  "last_updated": "2026-07-23T14:08:50.381981",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -207,19 +207,24 @@
           "timestamp": "2026-07-23T03:15:27.356211",
           "price": 643723.011261,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-23T14:08:50.381981",
+          "price": 643755.2006305,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 199.98,
+        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
+        "price": 199.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
-        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
+        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 643723.011261
+        "price_cop": 643755.2006305
       }
     },
     "Sony WH-1000XM4": {
@@ -634,19 +639,24 @@
           "timestamp": "2026-07-23T03:15:27.356211",
           "price": 1508393.85477,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-23T14:08:50.381981",
+          "price": 1509681.42955,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128 GB, azul - desbloqueado (reacondicionado prémium)",
-        "price": 468.6,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 469.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-azul-reacondicionado/dp/B0CRJ1JNNS",
-        "image": "https://m.media-amazon.com/images/I/51-RPOw693L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1508393.85477
+        "price_cop": 1509681.42955
       }
     }
   }
