@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T14:03:09.160565",
+  "last_updated": "2026-07-23T03:15:27.356211",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -202,6 +202,11 @@
           "timestamp": "2026-07-22T14:03:09.160565",
           "price": 650094.63063534,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-23T03:15:27.356211",
+          "price": 643723.011261,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -214,7 +219,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 650094.63063534
+        "price_cop": 643723.011261
       }
     },
     "Sony WH-1000XM4": {
@@ -403,6 +408,11 @@
           "timestamp": "2026-07-22T14:03:09.160565",
           "price": 520095.20929767005,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-23T03:15:27.356211",
+          "price": 514997.7226305,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -415,7 +425,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 520095.20929767005
+        "price_cop": 514997.7226305
       }
     },
     "iPhone 15 128GB": {
@@ -619,19 +629,24 @@
           "timestamp": "2026-07-22T14:03:09.160565",
           "price": 1524624.371277,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-23T03:15:27.356211",
+          "price": 1508393.85477,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 469.0,
+        "title": "Apple iPhone 15, 128 GB, azul - desbloqueado (reacondicionado prémium)",
+        "price": 468.6,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-azul-reacondicionado/dp/B0CRJ1JNNS",
+        "image": "https://m.media-amazon.com/images/I/51-RPOw693L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1524624.371277
+        "price_cop": 1508393.85477
       }
     }
   }
