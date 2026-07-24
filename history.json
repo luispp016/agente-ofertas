@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T02:54:37.038998",
+  "last_updated": "2026-07-24T13:50:48.307832",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -212,11 +212,16 @@
           "timestamp": "2026-07-23T14:08:50.381981",
           "price": 643755.2006305,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-24T13:50:48.307832",
+          "price": 641707.19042535,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
-        "price": 199.99,
+        "price": 199.71,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
@@ -224,7 +229,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 643755.2006305
+        "price_cop": 641707.19042535
       }
     },
     "Sony WH-1000XM4": {
