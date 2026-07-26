@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T13:41:48.083678",
+  "last_updated": "2026-07-26T03:19:54.981767",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -222,19 +222,24 @@
           "timestamp": "2026-07-25T02:54:12.616035",
           "price": 690804.4490349999,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-26T03:19:54.981767",
+          "price": 642521.7905950799,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 215.0,
+        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
+        "price": 199.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
+        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 690804.4490349999
+        "price_cop": 642521.7905950799
       }
     },
     "Sony WH-1000XM4": {
@@ -433,19 +438,24 @@
           "timestamp": "2026-07-25T02:54:12.616035",
           "price": 449794.02242051,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-26T03:19:54.981767",
+          "price": 514036.71005754004,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos premium con cancelación de ruido, color azul (renovado)",
-        "price": 139.99,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado) | Industry-Leading Noise Canceling, Auto Nc Optimizer, Up to 30-Hr Battery, Multipoint Bt, Ldac and Aac and Sbc, USB-C",
+        "price": 159.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B092LHZWXN",
-        "image": "https://m.media-amazon.com/images/I/61VhlInMnDL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 449794.02242051
+        "price_cop": 514036.71005754004
       }
     },
     "iPhone 15 128GB": {
@@ -664,11 +674,16 @@
           "timestamp": "2026-07-25T02:54:12.616035",
           "price": 1506917.6120809999,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-26T03:19:54.981767",
+          "price": 1505257.8202509999,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 469.0,
+        "price": 468.5,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
@@ -676,7 +691,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1506917.6120809999
+        "price_cop": 1505257.8202509999
       }
     }
   }
