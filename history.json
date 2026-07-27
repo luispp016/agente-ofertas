@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T13:36:30.674814",
+  "last_updated": "2026-07-27T03:29:43.576850",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -227,6 +227,11 @@
           "timestamp": "2026-07-26T03:19:54.981767",
           "price": 642521.7905950799,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-27T03:29:43.576850",
+          "price": 641373.4782378,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -239,7 +244,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 642521.7905950799
+        "price_cop": 641373.4782378
       }
     },
     "Sony WH-1000XM4": {
