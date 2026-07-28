@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T02:46:32.605180",
+  "last_updated": "2026-07-28T14:15:31.622534",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -714,19 +714,24 @@
           "timestamp": "2026-07-28T02:46:32.605180",
           "price": 1540182.95657402,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-28T14:15:31.622534",
+          "price": 1762156.836968,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 478.97,
+        "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
+        "price": 548.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
+        "image": "https://m.media-amazon.com/images/I/81KOaMd4-6L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1540182.95657402
+        "price_cop": 1762156.836968
       }
     }
   }
