@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:42:58.962061",
+  "last_updated": "2026-07-28T02:46:32.605180",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -237,19 +237,24 @@
           "timestamp": "2026-07-27T14:42:58.962061",
           "price": 641405.5501189,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-28T02:46:32.605180",
+          "price": 643058.62090668,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
-        "price": 199.99,
+        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
+        "price": 199.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
-        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
+        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 641405.5501189
+        "price_cop": 643058.62090668
       }
     },
     "Sony WH-1000XM4": {
@@ -458,6 +463,11 @@
           "timestamp": "2026-07-27T14:42:58.962061",
           "price": 513118.0257189,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-28T02:46:32.605180",
+          "price": 514466.19041334,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -470,7 +480,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 513118.0257189
+        "price_cop": 514466.19041334
       }
     },
     "iPhone 15 128GB": {
@@ -699,6 +709,11 @@
           "timestamp": "2026-07-27T14:42:58.962061",
           "price": 1536146.8890467002,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-28T02:46:32.605180",
+          "price": 1540182.95657402,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -711,7 +726,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1536146.8890467002
+        "price_cop": 1540182.95657402
       }
     }
   }
