@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-07-29T14:18:14.501489",
+  "last_updated": "2026-07-30T02:38:26.641149",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-06-08T00:19:50.300834",
-          "price": 1162128.75,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-08T15:59:56.499258",
           "price": 797402.4576285,
@@ -252,19 +247,24 @@
           "timestamp": "2026-07-29T14:18:14.501489",
           "price": 673295.26383,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-30T02:38:26.641149",
+          "price": 641367.1733112,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch™ with Neon Blue and Neon Red Joy‑Con™ (Renewed)",
-        "price": 210.0,
+        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
+        "price": 199.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Joy%E2%80%91ConTM-Renewed-Switch/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
+        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 673295.26383
+        "price_cop": 641367.1733112
       }
     },
     "Sony WH-1000XM4": {
