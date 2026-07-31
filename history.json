@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-07-30T14:09:25.902245",
+  "last_updated": "2026-07-31T03:19:35.752754",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-06-08T15:59:56.499258",
-          "price": 797402.4576285,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-09T03:53:18.976831",
           "price": 763256.88292615,
@@ -252,19 +247,24 @@
           "timestamp": "2026-07-30T02:38:26.641149",
           "price": 641367.1733112,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-31T03:19:35.752754",
+          "price": 640062.79771896,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo 64 Console Premium with 2 Controllers, 256KB Memory Card, HDMI Cable (Renewed)",
-        "price": 199.95,
+        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
+        "price": 199.98,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Console-Premium-Controllers-Renewed-Wii/dp/B0FFWNSDN2",
-        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
+        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 641367.1733112
+        "price_cop": 640062.79771896
       }
     },
     "Sony WH-1000XM4": {
@@ -488,19 +488,24 @@
           "timestamp": "2026-07-29T14:18:14.501489",
           "price": 512954.80600077,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-31T03:19:35.752754",
+          "price": 473693.839696,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado) | Industry-Leading Noise Canceling, Auto Nc Optimizer, Up to 30-Hr Battery, Multipoint Bt, Ldac and Aac and Sbc, USB-C",
-        "price": 159.99,
+        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X | Massive Bass, Comfortable Design, 30-Hour Battery, Signature Noise Canceling Found in 1000X Series, Alexa Built-in, Bluetooth",
+        "price": 148.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
-        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 512954.80600077
+        "price_cop": 473693.839696
       }
     },
     "iPhone 15 128GB": {
@@ -749,11 +754,16 @@
           "timestamp": "2026-07-29T14:18:14.501489",
           "price": 1502089.6719255,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-07-31T03:19:35.752754",
+          "price": 1501097.370388,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 468.5,
+        "price": 469.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
@@ -761,7 +771,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1502089.6719255
+        "price_cop": 1501097.370388
       }
     }
   }
