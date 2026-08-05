@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-08-04T14:23:05.998885",
+  "last_updated": "2026-08-05T02:46:17.681121",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-06-24T03:55:24.993074",
-          "price": 727859.2018640001,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-27T03:49:09.978269",
           "price": 736794.9213197699,
@@ -252,6 +247,11 @@
           "timestamp": "2026-08-04T02:49:14.666320",
           "price": 599311.47920835,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-05T02:46:17.681121",
+          "price": 614270.70273435,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 599311.47920835
+        "price_cop": 614270.70273435
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-06-08T00:19:50.300834",
-          "price": 825201.5,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-08T15:59:56.499258",
           "price": 499455.79437769,
@@ -518,28 +513,28 @@
           "timestamp": "2026-08-03T14:46:30.958434",
           "price": 502819.08848271,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-05T02:46:17.681121",
+          "price": 478448.80478835,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado) | Industry-Leading Noise Canceling, Auto Nc Optimizer, Up to 30-Hr Battery, Multipoint Bt, Ldac and Aac and Sbc, USB-C",
-        "price": 159.99,
+        "title": "Sony ULT WEAR - Auriculares Bluetooth Over-Ear con cancelación de ruido con Alexa integrado, diseño cómodo, batería de 30 horas, graves masivos y cancelación de ruido distintiva de la serie 1000X | Massive Bass, Comfortable Design, 30-Hour Battery, Signature Noise Canceling Found in 1000X Series, Alexa Built-in, Bluetooth",
+        "price": 147.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
-        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-cancelaci%C3%B3n/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 502819.08848271
+        "price_cop": 478448.80478835
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-06-12T15:23:47.211022",
-          "price": 1545116.4078368,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-14T04:26:05.377577",
           "price": 1519371.335984,
@@ -784,11 +779,16 @@
           "timestamp": "2026-08-03T03:20:08.930058",
           "price": 1502171.6339901302,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-05T02:46:17.681121",
+          "price": 1516677.860397,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 477.97,
+        "price": 469.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
@@ -796,7 +796,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1502171.6339901302
+        "price_cop": 1516677.860397
       }
     }
   }
