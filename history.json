@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T12:49:42.580619",
+  "last_updated": "2026-08-18T01:22:22.040925",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-06-14T14:11:09.800582",
-          "price": 532454.45486972,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-06-16T04:47:09.793516",
           "price": 798711.056632,
           "store": "Amazon"
@@ -518,19 +513,24 @@
           "timestamp": "2026-08-07T02:48:48.291139",
           "price": 445250.16288509,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-18T01:22:22.040925",
+          "price": 454839.50412485,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 - Auriculares inalámbricos con cancelación de ruido, color plateado",
-        "price": 139.99,
+        "title": "Sony ULT WEAR - Auriculares inalámbricos con cancelación de ruido, color negro | Massive Bass, Comfortable Design, 30-Hour Battery, Signature Noise Canceling Found in 1000X Series, Alexa Built-in, Bluetooth",
+        "price": 144.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HHT4YZ1",
-        "image": "https://m.media-amazon.com/images/I/71a5XAAbzbL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-inal%C3%A1mbricos/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 445250.16288509
+        "price_cop": 454839.50412485
       }
     },
     "iPhone 15 128GB": {
