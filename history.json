@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-08-18T01:22:22.040925",
+  "last_updated": "2026-08-18T12:52:14.591069",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-04T03:29:12.950261",
-          "price": 745512.69593889,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-05T03:47:01.599874",
           "price": 525223.04523095,
@@ -252,6 +247,11 @@
           "timestamp": "2026-08-07T13:10:55.059627",
           "price": 604152.21401545,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-18T12:52:14.591069",
+          "price": 596045.28325985,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 604152.21401545
+        "price_cop": 596045.28325985
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-06-16T04:47:09.793516",
-          "price": 798711.056632,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-20T04:02:10.680617",
           "price": 609063.14802765,
@@ -518,11 +513,16 @@
           "timestamp": "2026-08-18T01:22:22.040925",
           "price": 454839.50412485,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-18T12:52:14.591069",
+          "price": 464410.118044,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Sony ULT WEAR - Auriculares inalámbricos con cancelación de ruido, color negro | Massive Bass, Comfortable Design, 30-Hour Battery, Signature Noise Canceling Found in 1000X Series, Alexa Built-in, Bluetooth",
-        "price": 144.95,
+        "price": 148.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-inal%C3%A1mbricos/dp/B0CWVX1GNX",
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 454839.50412485
+        "price_cop": 464410.118044
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-06-20T04:02:10.680617",
-          "price": 1520830.57620825,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-24T03:55:24.993074",
           "price": 1544640.8250878,
@@ -784,19 +779,24 @@
           "timestamp": "2026-08-07T13:10:55.059627",
           "price": 1694679.56131462,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-18T12:52:14.591069",
+          "price": 1521790.3712689101,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
-        "price": 532.82,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 484.97,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
-        "image": "https://m.media-amazon.com/images/I/81KOaMd4-6L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1694679.56131462
+        "price_cop": 1521790.3712689101
       }
     }
   }
