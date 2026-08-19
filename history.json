@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:52:14.591069",
+  "last_updated": "2026-08-19T01:24:32.401891",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-06-20T04:02:10.680617",
-          "price": 609063.14802765,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-06-24T03:55:24.993074",
           "price": 508128.12205600005,
           "store": "Amazon"
@@ -518,6 +513,11 @@
           "timestamp": "2026-08-18T12:52:14.591069",
           "price": 464410.118044,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-19T01:24:32.401891",
+          "price": 464008.27776799997,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 464410.118044
+        "price_cop": 464008.27776799997
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-06-24T03:55:24.993074",
-          "price": 1544640.8250878,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-06-27T03:49:09.978269",
           "price": 1514612.37953985,
@@ -784,6 +779,11 @@
           "timestamp": "2026-08-18T12:52:14.591069",
           "price": 1521790.3712689101,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-19T01:24:32.401891",
+          "price": 1520473.61127802,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -796,7 +796,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1521790.3712689101
+        "price_cop": 1520473.61127802
       }
     }
   }
