@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-08-26T12:57:48.937330",
+  "last_updated": "2026-08-27T08:19:54.569171",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-07T03:44:57.559404",
-          "price": 715680.098992,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-07T14:44:08.959509",
           "price": 700630.751116,
@@ -252,11 +247,16 @@
           "timestamp": "2026-08-26T12:57:48.937330",
           "price": 609467.31279904,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-27T08:19:54.569171",
+          "price": 587483.2115996999,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 198.98,
+        "price": 189.95,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 609467.31279904
+        "price_cop": 587483.2115996999
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-05T03:47:01.599874",
-          "price": 660773.2214309501,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-05T13:47:47.820069",
           "price": 474391.7291559501,
@@ -518,28 +513,28 @@
           "timestamp": "2026-08-26T12:57:48.937330",
           "price": 443975.71107759996,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-27T08:19:54.569171",
+          "price": 494822.00065194,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony ULT WEAR - Auriculares inalámbricos con cancelación de ruido, color negro | Massive Bass, Comfortable Design, 30-Hour Battery, Signature Noise Canceling Found in 1000X Series, Alexa Built-in, Bluetooth",
-        "price": 144.95,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
+        "price": 159.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-inal%C3%A1mbricos/dp/B0CWVX1GNX",
-        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 443975.71107759996
+        "price_cop": 494822.00065194
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-05T13:47:47.820069",
-          "price": 1524905.59470595,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-06T03:54:47.075511",
           "price": 1614312.279385,
@@ -784,19 +779,24 @@
           "timestamp": "2026-08-26T12:57:48.937330",
           "price": 1690691.3625430402,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-27T08:19:54.569171",
+          "price": 1677396.7876341,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128GB, Negro Titanio - Desbloqueado (Renovado)",
-        "price": 551.98,
+        "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
+        "price": 542.35,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-Negro-Titanio/dp/B0CMZKHTQM",
-        "image": "https://m.media-amazon.com/images/I/71hDhuRKjqL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
+        "image": "https://m.media-amazon.com/images/I/81KOaMd4-6L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1690691.3625430402
+        "price_cop": 1677396.7876341
       }
     }
   }
