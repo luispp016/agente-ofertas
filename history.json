@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T08:19:54.569171",
+  "last_updated": "2026-08-27T21:59:34.926608",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -536,11 +536,6 @@
     "iPhone 15 128GB": {
       "history": [
         {
-          "timestamp": "2026-07-06T03:54:47.075511",
-          "price": 1614312.279385,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-07-06T15:40:50.120116",
           "price": 1510069.9937349001,
           "store": "Amazon"
@@ -784,19 +779,24 @@
           "timestamp": "2026-08-27T08:19:54.569171",
           "price": 1677396.7876341,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-08-27T21:59:34.926608",
+          "price": 1701026.01499194,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128 GB, Azul Titanio - Desbloqueado (Renovado)",
-        "price": 542.35,
+        "title": "Apple iPhone 15 Pro, 128GB, Negro Titanio - Desbloqueado (Renovado)",
+        "price": 549.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-Azul-Titanio/dp/B0CMZ8ZBVN",
-        "image": "https://m.media-amazon.com/images/I/81KOaMd4-6L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-Negro-Titanio/dp/B0CMZKHTQM",
+        "image": "https://m.media-amazon.com/images/I/71hDhuRKjqL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1677396.7876341
+        "price_cop": 1701026.01499194
       }
     }
   }
