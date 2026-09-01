@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-09-01T04:17:05.827932",
+  "last_updated": "2026-09-01T16:17:32.303660",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-08T03:13:49.040963",
-          "price": 716314.8797020001,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-09T15:17:09.180690",
           "price": 718235.175015,
@@ -252,6 +247,11 @@
           "timestamp": "2026-08-28T10:21:06.313903",
           "price": 591640.5032676,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-01T16:17:32.303660",
+          "price": 606350.31883455,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 591640.5032676
+        "price_cop": 606350.31883455
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-06T03:54:47.075511",
-          "price": 654417.36248915,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-07T03:44:57.559404",
           "price": 468168.49092472,
@@ -518,28 +513,28 @@
           "timestamp": "2026-08-28T10:21:06.313903",
           "price": 460978.123104,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-01T16:17:32.303660",
+          "price": 510713.27986491006,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony ULT WEAR - Auriculares inalámbricos con cancelación de ruido, color | Graves masivos, diseño cómodo, batería de 30 horas, cancelación de ruido distintiva que se encuentra en la serie 1000X",
-        "price": 148.0,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
+        "price": 159.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-inal%C3%A1mbricos/dp/B0CWVX1GNX",
-        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 460978.123104
+        "price_cop": 510713.27986491006
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-07T03:44:57.559404",
-          "price": 1504600.3576471999,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-08T03:13:49.040963",
           "price": 1506236.13419207,
@@ -784,19 +779,24 @@
           "timestamp": "2026-08-28T10:21:06.313903",
           "price": 1715523.85569744,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-01T16:17:32.303660",
+          "price": 1596046.8329249101,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple - Teléfono celular iPhone 16, versión de EE. UU., 128 GB, color verde azulado - desbloqueado (reacondicionado)",
-        "price": 550.78,
+        "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
+        "price": 499.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-Tel%C3%A9fono-celular-desbloqueado-reacondicionado/dp/B0DHJCYNS7",
-        "image": "https://m.media-amazon.com/images/I/71dAfxOFDuL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
+        "image": "https://m.media-amazon.com/images/I/51KLILQ67nL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1715523.85569744
+        "price_cop": 1596046.8329249101
       }
     }
   }
