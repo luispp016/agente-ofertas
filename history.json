@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-09-01T16:17:32.303660",
+  "last_updated": "2026-09-02T03:39:47.339379",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-09T15:17:09.180690",
-          "price": 718235.175015,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-10T03:39:06.698059",
           "price": 708361.223936,
@@ -252,6 +247,11 @@
           "timestamp": "2026-09-01T16:17:32.303660",
           "price": 606350.31883455,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-02T03:39:47.339379",
+          "price": 610206.00561305,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 606350.31883455
+        "price_cop": 610206.00561305
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-07T03:44:57.559404",
-          "price": 468168.49092472,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-07T14:44:08.959509",
           "price": 428070.339584,
@@ -518,6 +513,11 @@
           "timestamp": "2026-09-01T16:17:32.303660",
           "price": 510713.27986491006,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-02T03:39:47.339379",
+          "price": 513960.82568061,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 510713.27986491006
+        "price_cop": 513960.82568061
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-08T03:13:49.040963",
-          "price": 1506236.13419207,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-08T14:22:13.415542",
           "price": 1874468.84408,
@@ -784,19 +779,24 @@
           "timestamp": "2026-09-01T16:17:32.303660",
           "price": 1596046.8329249101,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-02T03:39:47.339379",
+          "price": 1574007.0364318301,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
-        "price": 499.99,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 489.97,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
-        "image": "https://m.media-amazon.com/images/I/51KLILQ67nL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1596046.8329249101
+        "price_cop": 1574007.0364318301
       }
     }
   }
