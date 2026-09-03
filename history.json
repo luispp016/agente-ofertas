@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-09-02T16:14:08.608529",
+  "last_updated": "2026-09-03T03:39:08.593145",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-10T14:35:03.740639",
-          "price": 711702.550464,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-11T02:53:45.778823",
           "price": 685116.5582135,
@@ -252,11 +247,16 @@
           "timestamp": "2026-09-02T16:14:08.608529",
           "price": 636002.0268032199,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-03T03:39:08.593145",
+          "price": 601765.0787443,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 197.98,
+        "price": 189.95,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 636002.0268032199
+        "price_cop": 601765.0787443
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-08T03:13:49.040963",
-          "price": 652683.35697707,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-09T15:17:09.180690",
           "price": 651389.19430779,
@@ -518,28 +513,28 @@
           "timestamp": "2026-09-02T16:14:08.608529",
           "price": 475443.478972,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-03T03:39:08.593145",
+          "price": 506851.25005686004,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony ULT WEAR - Auriculares inalámbricos con cancelación de ruido, color | Graves masivos, diseño cómodo, batería de 30 horas, cancelación de ruido distintiva que se encuentra en la serie 1000X",
-        "price": 148.0,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
+        "price": 159.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-inal%C3%A1mbricos/dp/B0CWVX1GNX",
-        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 475443.478972
+        "price_cop": 506851.25005686004
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-09T15:17:09.180690",
-          "price": 1503249.51816279,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-10T14:35:03.740639",
           "price": 1503429.8712736,
@@ -784,19 +779,24 @@
           "timestamp": "2026-09-02T16:14:08.608529",
           "price": 1843917.58442661,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-03T03:39:08.593145",
+          "price": 1552233.93331058,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple - Teléfono celular iPhone 16, versión de EE. UU., 128 GB, color verde azulado - desbloqueado (reacondicionado)",
-        "price": 573.99,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 489.97,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-Tel%C3%A9fono-celular-desbloqueado-reacondicionado/dp/B0DHJCYNS7",
-        "image": "https://m.media-amazon.com/images/I/71dAfxOFDuL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1843917.58442661
+        "price_cop": 1552233.93331058
       }
     }
   }
