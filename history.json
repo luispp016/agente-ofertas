@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T15:51:32.565593",
+  "last_updated": "2026-09-14T04:05:22.622181",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-07-14T02:45:59.282377",
-          "price": 632511.01224434,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-07-15T13:49:32.553731",
           "price": 479612.341788,
           "store": "Amazon"
@@ -518,28 +513,28 @@
           "timestamp": "2026-09-12T03:49:59.486417",
           "price": 462763.881587,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-14T04:05:22.622181",
+          "price": 586065.40067605,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-CH720N Auriculares inalámbricos con cancelación de ruido Bluetooth sobre la oreja con micrófono y Alexa incorporado, Blanco Nuevo | Comfortable Lightweight Design, Dual Noise Sensor technology, Up to 35 Hrs Battery with Quick Charging, Multipoint Connection",
-        "price": 149.0,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
+        "price": 189.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n-incorporado/dp/B0BS74M665",
-        "image": "https://m.media-amazon.com/images/I/41tp0JPPlmL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 462763.881587
+        "price_cop": 586065.40067605
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-17T13:45:33.174143",
-          "price": 2480858.067697,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-18T02:45:59.709579",
           "price": 1750993.7257397398,
@@ -784,11 +779,16 @@
           "timestamp": "2026-09-12T15:15:12.369605",
           "price": 1782448.4515543298,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-14T04:05:22.622181",
+          "price": 1731631.1949219601,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple - Teléfono celular iPhone 16, versión de EE. UU., 128 GB, color verde azulado - desbloqueado (reacondicionado)",
-        "price": 573.91,
+        "price": 561.24,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-Tel%C3%A9fono-celular-desbloqueado-reacondicionado/dp/B0DHJCYNS7",
@@ -796,7 +796,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1782448.4515543298
+        "price_cop": 1731631.1949219601
       }
     }
   }
