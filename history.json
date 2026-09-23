@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-09-23T03:58:52.633139",
+  "last_updated": "2026-09-23T16:25:46.242610",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-18T02:45:59.709579",
-          "price": 555649.36365222,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-18T13:22:51.293062",
           "price": 555197.8521837,
@@ -252,6 +247,11 @@
           "timestamp": "2026-09-22T04:01:52.160484",
           "price": 602722.7665648499,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-23T16:25:46.242610",
+          "price": 607874.7737666,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 602722.7665648499
+        "price_cop": 607874.7737666
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-17T02:53:23.721247",
-          "price": 629053.9852018701,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-17T13:45:33.174143",
           "price": 412938.664064,
@@ -518,19 +513,24 @@
           "timestamp": "2026-09-22T04:01:52.160484",
           "price": 507657.88587897,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-23T16:25:46.242610",
+          "price": 473627.09406399995,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
-        "price": 159.99,
+        "title": "Sony ULT WEAR - Auriculares inalámbricos con cancelación de ruido, color",
+        "price": 148.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
-        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-ULT-WEAR-Auriculares-inal%C3%A1mbricos/dp/B0CWVX1GNX",
+        "image": "https://m.media-amazon.com/images/I/610DB8Cwm7L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 507657.88587897
+        "price_cop": 473627.09406399995
       }
     },
     "iPhone 15 128GB": {
