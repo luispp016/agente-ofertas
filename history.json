@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T16:34:55.760845",
+  "last_updated": "2026-09-23T03:58:52.633139",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -536,11 +536,6 @@
     "iPhone 15 128GB": {
       "history": [
         {
-          "timestamp": "2026-07-19T03:16:58.683791",
-          "price": 2479834.1664980003,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-07-19T13:24:21.559107",
           "price": 1750975.7551691602,
           "store": "Amazon"
@@ -784,6 +779,11 @@
           "timestamp": "2026-09-17T04:08:24.312300",
           "price": 1525834.9990847101,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-09-23T03:58:52.633139",
+          "price": 1568057.70148932,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -796,7 +796,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1525834.9990847101
+        "price_cop": 1568057.70148932
       }
     }
   }
