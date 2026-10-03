@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-10-02T17:38:55.023040",
+  "last_updated": "2026-10-03T04:30:33.204651",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-19T13:24:21.559107",
-          "price": 661009.63257316,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-20T03:29:50.939775",
           "price": 649646.7988229999,
@@ -252,11 +247,16 @@
           "timestamp": "2026-09-30T17:47:36.584184",
           "price": 606008.6177240701,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-03T04:30:33.204651",
+          "price": 645759.2757157199,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 179.99,
+        "price": 194.98,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
@@ -264,7 +264,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 606008.6177240701
+        "price_cop": 645759.2757157199
       }
     },
     "Sony WH-1000XM4": {
