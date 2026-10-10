@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T05:03:05.365268",
+  "last_updated": "2026-10-10T17:07:50.422120",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -536,11 +536,6 @@
     "iPhone 15 128GB": {
       "history": [
         {
-          "timestamp": "2026-07-23T03:15:27.356211",
-          "price": 1508393.85477,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-07-23T14:08:50.381981",
           "price": 1509681.42955,
           "store": "Amazon"
@@ -784,11 +779,16 @@
           "timestamp": "2026-10-10T05:03:05.365268",
           "price": 1517950.568813,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-10T17:07:50.422120",
+          "price": 1535201.47826241,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 469.0,
+        "price": 474.33,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
@@ -796,7 +796,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1517950.568813
+        "price_cop": 1535201.47826241
       }
     }
   }
