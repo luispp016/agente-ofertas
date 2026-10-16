@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-10-16T03:47:32.379961",
+  "last_updated": "2026-10-16T16:19:41.414803",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-27T14:42:58.962061",
-          "price": 641405.5501189,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-28T02:46:32.605180",
           "price": 643058.62090668,
@@ -252,28 +247,28 @@
           "timestamp": "2026-10-14T04:09:25.851061",
           "price": 573315.65368076,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-16T16:19:41.414803",
+          "price": 598668.18036993,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
-        "price": 179.99,
+        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
+        "price": 187.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
-        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 573315.65368076
+        "price_cop": 598668.18036993
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-23T03:15:27.356211",
-          "price": 514997.7226305,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-25T02:54:12.616035",
           "price": 449794.02242051,
@@ -518,6 +513,11 @@
           "timestamp": "2026-10-13T19:02:50.327502",
           "price": 511663.88060865004,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-16T16:19:41.414803",
+          "price": 509500.09137393004,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 511663.88060865004
+        "price_cop": 509500.09137393004
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-27T14:42:58.962061",
-          "price": 1536146.8890467002,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-28T02:46:32.605180",
           "price": 1540182.95657402,
@@ -784,19 +779,24 @@
           "timestamp": "2026-10-13T19:02:50.327502",
           "price": 1535471.3566962,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-16T16:19:41.414803",
+          "price": 1522768.0398291901,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128 GB, azul - desbloqueado (reacondicionado prémium)",
-        "price": 480.12,
+        "title": "Apple iPhone 15, 128GB, rosa - desbloqueado (renovado prémium)",
+        "price": 478.17,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-azul-reacondicionado/dp/B0CRJ1JNNS",
-        "image": "https://m.media-amazon.com/images/I/51-dI0OmzyL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-rosa-desbloqueado/dp/B0CRJ1LWT5",
+        "image": "https://m.media-amazon.com/images/I/51FEUnN4yLL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1535471.3566962
+        "price_cop": 1522768.0398291901
       }
     }
   }
