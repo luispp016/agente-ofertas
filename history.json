@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T03:44:08.490022",
+  "last_updated": "2026-10-18T15:35:49.187776",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-07-25T02:54:12.616035",
-          "price": 449794.02242051,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-07-26T03:19:54.981767",
           "price": 514036.71005754004,
           "store": "Amazon"
@@ -518,6 +513,11 @@
           "timestamp": "2026-10-16T16:19:41.414803",
           "price": 509500.09137393004,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-18T15:35:49.187776",
+          "price": 509216.72508543,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 509500.09137393004
+        "price_cop": 509216.72508543
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-28T02:46:32.605180",
-          "price": 1540182.95657402,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-28T14:15:31.622534",
           "price": 1762156.836968,
@@ -784,19 +779,24 @@
           "timestamp": "2026-10-16T16:19:41.414803",
           "price": 1522768.0398291901,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-18T15:35:49.187776",
+          "price": 1528127.59577484,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128GB, rosa - desbloqueado (renovado prémium)",
-        "price": 478.17,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 480.12,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-rosa-desbloqueado/dp/B0CRJ1LWT5",
-        "image": "https://m.media-amazon.com/images/I/51FEUnN4yLL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1522768.0398291901
+        "price_cop": 1528127.59577484
       }
     }
   }
