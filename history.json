@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-10-18T15:35:49.187776",
+  "last_updated": "2026-10-19T03:53:47.554987",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-07-29T02:53:30.377386",
-          "price": 641169.4612415399,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-29T14:18:14.501489",
           "price": 673295.26383,
@@ -252,6 +247,11 @@
           "timestamp": "2026-10-18T03:44:08.490022",
           "price": 572872.79422543,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-19T03:53:47.554987",
+          "price": 571376.32406728,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 572872.79422543
+        "price_cop": 571376.32406728
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-07-26T03:19:54.981767",
-          "price": 514036.71005754004,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-27T14:42:58.962061",
           "price": 513118.0257189,
@@ -518,11 +513,16 @@
           "timestamp": "2026-10-18T15:35:49.187776",
           "price": 509216.72508543,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-19T03:53:47.554987",
+          "price": 542837.665512,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
-        "price": 159.99,
+        "price": 171.0,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 509216.72508543
+        "price_cop": 542837.665512
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-07-28T14:15:31.622534",
-          "price": 1762156.836968,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-07-29T02:53:30.377386",
           "price": 1503692.755887,
@@ -784,19 +779,24 @@
           "timestamp": "2026-10-18T15:35:49.187776",
           "price": 1528127.59577484,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-19T03:53:47.554987",
+          "price": 1542643.0617284,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
-        "price": 480.12,
+        "title": "Apple iPhone 16 Plus, 128 GB, rosa - Bloqueado a AT&T (renovado)",
+        "price": 485.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-128-rosa/dp/B0DLJH317R",
+        "image": "https://m.media-amazon.com/images/I/51sn7oLrEjL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1528127.59577484
+        "price_cop": 1542643.0617284
       }
     }
   }
