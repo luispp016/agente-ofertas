@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-10-24T15:36:49.439639",
+  "last_updated": "2026-10-25T03:52:18.061947",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-01T13:28:00.641526",
-          "price": 640541.18387556,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-02T03:18:02.038785",
           "price": 659122.6283528899,
@@ -252,11 +247,16 @@
           "timestamp": "2026-10-24T15:36:49.439639",
           "price": 616893.440236,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-25T03:52:18.061947",
+          "price": 597823.9988675901,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
-        "price": 194.0,
+        "price": 187.99,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 616893.440236
+        "price_cop": 597823.9988675901
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-08-02T13:35:01.253568",
-          "price": 512430.28966509004,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-03T03:20:08.930058",
           "price": 464979.58710554993,
@@ -518,28 +513,28 @@
           "timestamp": "2026-10-24T15:36:49.439639",
           "price": 508746.29640906,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-25T03:52:18.061947",
+          "price": 686898.152856,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
-        "price": 159.99,
+        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
+        "price": 216.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
-        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
+        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 508746.29640906
+        "price_cop": 686898.152856
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-08-03T03:20:08.930058",
-          "price": 1502171.6339901302,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-05T02:46:17.681121",
           "price": 1516677.860397,
@@ -784,19 +779,24 @@
           "timestamp": "2026-10-24T15:36:49.439639",
           "price": 1556002.4077870199,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-25T03:52:18.061947",
+          "price": 1586861.936459,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 14 Pro Max, 128 GB, morado oscuro, desbloqueado (reacondicionado)",
-        "price": 489.33,
+        "title": "Apple iPhone 15 Plus, 128GB, Negro - Desbloqueado (renovado Premium)",
+        "price": 499.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-morado-desbloqueado-reacondicionado/dp/B0BN9P1GXC",
-        "image": "https://m.media-amazon.com/images/I/51KLILQ67nL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-128GB-Negro/dp/B0CRJ1VSCY",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1556002.4077870199
+        "price_cop": 1586861.936459
       }
     }
   }
