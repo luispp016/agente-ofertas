@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-10-25T15:47:34.156532",
+  "last_updated": "2026-10-26T03:56:10.334765",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-02T03:18:02.038785",
-          "price": 659122.6283528899,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-02T13:35:01.253568",
           "price": 624627.50853482,
@@ -252,19 +247,24 @@
           "timestamp": "2026-10-25T03:52:18.061947",
           "price": 597823.9988675901,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-26T03:56:10.334765",
+          "price": 623000.7408915,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
-        "price": 187.99,
+        "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
+        "price": 196.5,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
+        "image": "https://m.media-amazon.com/images/I/71qccaRKQVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 597823.9988675901
+        "price_cop": 623000.7408915
       }
     },
     "Sony WH-1000XM4": {
