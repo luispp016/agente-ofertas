@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T18:27:57.195375",
+  "last_updated": "2026-10-27T04:17:41.111026",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -536,11 +536,6 @@
     "iPhone 15 128GB": {
       "history": [
         {
-          "timestamp": "2026-08-06T14:19:53.673499",
-          "price": 1578937.1675774402,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-08-07T02:48:48.291139",
           "price": 1716084.9016690499,
           "store": "Amazon"
@@ -784,19 +779,24 @@
           "timestamp": "2026-10-26T18:27:57.195375",
           "price": 1680199.7080684502,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-27T04:17:41.111026",
+          "price": 1514465.42045974,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128 GB, titanio natural - Desbloqueado (Renovado)",
-        "price": 529.95,
+        "title": "Apple iPhone 15, 128 GB, azul - desbloqueado (reacondicionado prémium)",
+        "price": 479.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Pro-titanio-natural/dp/B0CMZG4M6H",
-        "image": "https://m.media-amazon.com/images/I/51FQd2r15rL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-azul-reacondicionado/dp/B0CRJ1JNNS",
+        "image": "https://m.media-amazon.com/images/I/51-dI0OmzyL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1680199.7080684502
+        "price_cop": 1514465.42045974
       }
     }
   }
