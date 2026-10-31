@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-10-31T04:45:02.145134",
+  "last_updated": "2026-10-31T17:00:42.167808",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-03T14:46:30.958434",
-          "price": 832814.74002771,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-04T02:49:14.666320",
           "price": 599311.47920835,
@@ -252,11 +247,16 @@
           "timestamp": "2026-10-30T04:58:02.140675",
           "price": 601149.68048781,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-10-31T17:00:42.167808",
+          "price": 597978.137371,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
-        "price": 189.99,
+        "price": 188.99,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
@@ -264,7 +264,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 601149.68048781
+        "price_cop": 597978.137371
       }
     },
     "Sony WH-1000XM4": {
