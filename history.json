@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T05:07:40.788167",
+  "last_updated": "2026-11-02T21:31:24.466443",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-08-07T02:48:48.291139",
-          "price": 445250.16288509,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-08-18T01:22:22.040925",
           "price": 454839.50412485,
           "store": "Amazon"
@@ -518,28 +513,28 @@
           "timestamp": "2026-11-02T05:07:40.788167",
           "price": 408605.735808,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-02T21:31:24.466443",
+          "price": 555448.4221140001,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-CH730N Auriculares inalámbricos con cancelación de ruido, color",
-        "price": 128.0,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
+        "price": 174.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n-tecnolog%C3%ADa/dp/B0HFB6FS8K",
-        "image": "https://m.media-amazon.com/images/I/61E04R1JfkL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 408605.735808
+        "price_cop": 555448.4221140001
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-08-19T01:24:32.401891",
-          "price": 1520473.61127802,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-21T01:27:24.006070",
           "price": 1604329.5782709601,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-02T05:07:40.788167",
           "price": 1580027.30465256,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-02T21:31:24.466443",
+          "price": 1592923.923189,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128GB, Negro Titanio - Desbloqueado (Renovado)",
-        "price": 494.96,
+        "title": "Apple iPhone 15 Plus, 128GB, Negro - Desbloqueado (renovado Premium)",
+        "price": 499.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-Negro-Titanio/dp/B0CMZKHTQM",
-        "image": "https://m.media-amazon.com/images/I/71hDhuRKjqL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-128GB-Negro/dp/B0CRJ1VSCY",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1580027.30465256
+        "price_cop": 1592923.923189
       }
     }
   }
