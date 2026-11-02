@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-01T17:45:47.502924",
+  "last_updated": "2026-11-02T05:07:40.788167",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-05T02:46:17.681121",
-          "price": 614270.70273435,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-05T14:16:24.816532",
           "price": 646706.26550574,
@@ -252,28 +247,28 @@
           "timestamp": "2026-11-01T05:07:05.576704",
           "price": 598021.03469918,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-02T05:07:40.788167",
+          "price": 603299.98445589,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
+        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
         "price": 188.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
-        "image": "https://m.media-amazon.com/images/I/71qccaRKQVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 598021.03469918
+        "price_cop": 603299.98445589
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-08-06T14:19:53.673499",
-          "price": 470981.78434908,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-07T02:48:48.291139",
           "price": 445250.16288509,
@@ -518,28 +513,28 @@
           "timestamp": "2026-11-01T17:45:47.502924",
           "price": 683109.05852616,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-02T05:07:40.788167",
+          "price": 408605.735808,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
-        "price": 215.88,
+        "title": "Sony WH-CH730N Auriculares inalámbricos con cancelación de ruido, color",
+        "price": 128.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
-        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n-tecnolog%C3%ADa/dp/B0HFB6FS8K",
+        "image": "https://m.media-amazon.com/images/I/61E04R1JfkL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 683109.05852616
+        "price_cop": 408605.735808
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-08-18T12:52:14.591069",
-          "price": 1521790.3712689101,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-19T01:24:32.401891",
           "price": 1520473.61127802,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-01T17:45:47.502924",
           "price": 1577213.6331840798,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-02T05:07:40.788167",
+          "price": 1580027.30465256,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 16 Plus, 128 GB, rosa - Bloqueado a AT&T (renovado)",
-        "price": 498.44,
+        "title": "Apple iPhone 15 Pro, 128GB, Negro Titanio - Desbloqueado (Renovado)",
+        "price": 494.96,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-128-rosa/dp/B0DLJH317R",
-        "image": "https://m.media-amazon.com/images/I/51sn7oLrEjL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-Negro-Titanio/dp/B0CMZKHTQM",
+        "image": "https://m.media-amazon.com/images/I/71hDhuRKjqL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1577213.6331840798
+        "price_cop": 1580027.30465256
       }
     }
   }
