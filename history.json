@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T05:53:25.008391",
+  "last_updated": "2026-11-03T19:15:52.344875",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-08-18T12:52:14.591069",
-          "price": 464410.118044,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-08-19T01:24:32.401891",
           "price": 464008.27776799997,
           "store": "Amazon"
@@ -518,28 +513,28 @@
           "timestamp": "2026-11-03T05:53:25.008391",
           "price": 633066.42267,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-03T19:15:52.344875",
+          "price": 690617.91564,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5 Auriculares inalámbricos con cancelación de ruido premium",
-        "price": 198.0,
+        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
+        "price": 216.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n-cristalinas/dp/B0BXYCS74H",
-        "image": "https://m.media-amazon.com/images/I/61oUbsHuWuL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
+        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 633066.42267
+        "price_cop": 690617.91564
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-08-21T01:27:24.006070",
-          "price": 1604329.5782709601,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-22T01:22:51.506361",
           "price": 1516845.033702,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-02T21:31:24.466443",
           "price": 1592923.923189,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-03T19:15:52.344875",
+          "price": 2573734.73867005,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Plus, 128GB, Negro - Desbloqueado (renovado Premium)",
-        "price": 499.0,
+        "title": "Apple iPhone 17, versión de EE. UU., 256GB, eSIM, Azul Niebla - Desbloqueado (Renovado Prémium)",
+        "price": 804.97,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-128GB-Negro/dp/B0CRJ1VSCY",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-versi%C3%B3n-256GB-Niebla/dp/B0G4RV4F71",
+        "image": "https://m.media-amazon.com/images/I/41jF6OMkD8L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1592923.923189
+        "price_cop": 2573734.73867005
       }
     }
   }
