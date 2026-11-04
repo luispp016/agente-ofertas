@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-04T05:29:15.651856",
+  "last_updated": "2026-11-04T19:31:10.592322",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-07T13:10:55.059627",
-          "price": 604152.21401545,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-18T12:52:14.591069",
           "price": 596045.28325985,
@@ -252,11 +247,16 @@
           "timestamp": "2026-11-04T05:29:15.651856",
           "price": 617815.27869201,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-04T19:31:10.592322",
+          "price": 619103.80317961,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
-        "price": 191.79,
+        "price": 192.19,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
@@ -264,7 +264,7 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 617815.27869201
+        "price_cop": 619103.80317961
       }
     },
     "Sony WH-1000XM4": {
@@ -536,11 +536,6 @@
     "iPhone 15 128GB": {
       "history": [
         {
-          "timestamp": "2026-08-25T12:52:19.653081",
-          "price": 1746570.796684,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-08-26T12:57:48.937330",
           "price": 1690691.3625430402,
           "store": "Amazon"
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-04T05:29:15.651856",
           "price": 1607434.298281,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-04T19:31:10.592322",
+          "price": 1900541.40609781,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Plus, 128GB, Negro - Desbloqueado (renovado Premium)",
-        "price": 499.0,
+        "title": "Apple iPhone 17e, 256GB, blanco - desbloqueado (renovado)",
+        "price": 589.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-Plus-128GB-Negro/dp/B0CRJ1VSCY",
-        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-17e-256GB-blanco/dp/B0GWNF6HL9",
+        "image": "https://m.media-amazon.com/images/I/419ORou+gVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1607434.298281
+        "price_cop": 1900541.40609781
       }
     }
   }
