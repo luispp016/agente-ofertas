@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-04T19:31:10.592322",
+  "last_updated": "2026-11-05T05:49:21.946357",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-18T12:52:14.591069",
-          "price": 596045.28325985,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-20T12:54:44.788131",
           "price": 619799.81541984,
@@ -252,19 +247,24 @@
           "timestamp": "2026-11-04T19:31:10.592322",
           "price": 619103.80317961,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-05T05:49:21.946357",
+          "price": 616228.5095352,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
-        "price": 192.19,
+        "title": "Original Replacement OLED Black tablet Switch OLED Console (Bulk Packaging) (Renewed)",
+        "price": 189.9,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
-        "image": "https://m.media-amazon.com/images/I/71qccaRKQVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Original-Replacement-Switch-Console-Packaging-Nintendo/dp/B0CTS9Y21L",
+        "image": "https://m.media-amazon.com/images/I/41WBcw6JTCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 619103.80317961
+        "price_cop": 616228.5095352
       }
     },
     "Sony WH-1000XM4": {
