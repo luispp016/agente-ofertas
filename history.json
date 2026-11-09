@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-08T17:46:07.559597",
+  "last_updated": "2026-11-09T05:25:01.035478",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-08-28T10:21:06.313903",
-          "price": 591640.5032676,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-01T16:17:32.303660",
           "price": 606350.31883455,
@@ -252,28 +247,28 @@
           "timestamp": "2026-11-08T17:46:07.559597",
           "price": 638251.379643,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-09T05:25:01.035478",
+          "price": 629216.07051,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
-        "price": 197.0,
+        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
+        "price": 193.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
-        "image": "https://m.media-amazon.com/images/I/71qccaRKQVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 638251.379643
+        "price_cop": 629216.07051
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-08-26T12:57:48.937330",
-          "price": 443975.71107759996,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-08-27T08:19:54.569171",
           "price": 494822.00065194,
@@ -518,28 +513,28 @@
           "timestamp": "2026-11-08T05:12:57.155927",
           "price": 589005.5879142,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-09T05:25:01.035478",
+          "price": 573945.99555,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
-        "price": 181.8,
+        "title": "Sony Auriculares Bluetooth inalámbricos con cancelación de ruido extra graves, batería de hasta 30 horas, sobre la oreja, optimizados para Alexa y Google Assistant, llamadas manos libres - WH-XB910NZ - Edición limitada - Negro ónix",
+        "price": 176.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
-        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n-optimizados/dp/B09GKBXGGS",
+        "image": "https://m.media-amazon.com/images/I/51mkA6Gv06L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 589005.5879142
+        "price_cop": 573945.99555
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-08-28T10:21:06.313903",
-          "price": 1715523.85569744,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-01T16:17:32.303660",
           "price": 1596046.8329249101,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-08T17:46:07.559597",
           "price": 1911481.88566281,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-09T05:25:01.035478",
+          "price": 2390495.613,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 17e, 256GB, blanco - desbloqueado (renovado)",
-        "price": 589.99,
+        "title": "Apple - iPhone 17, versión de EE. UU., 256GB, eSIM, Sage - desbloqueado (reacondicionado)",
+        "price": 737.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-17e-256GB-blanco/dp/B0GWNF6HL9",
-        "image": "https://m.media-amazon.com/images/I/419ORou+gVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-versi%C3%B3n-desbloqueado-reacondicionado/dp/B0FRKNSSJ1",
+        "image": "https://m.media-amazon.com/images/I/41lkRMwptFL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1911481.88566281
+        "price_cop": 2390495.613
       }
     }
   }
