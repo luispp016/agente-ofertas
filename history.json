@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-09T22:04:56.338637",
+  "last_updated": "2026-11-10T06:36:09.083498",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-09-02T03:39:47.339379",
-          "price": 610206.00561305,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-02T16:14:08.608529",
           "price": 636002.0268032199,
@@ -252,11 +247,16 @@
           "timestamp": "2026-11-09T22:04:56.338637",
           "price": 626621.23131,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-10T06:36:09.083498",
+          "price": 626767.6952804399,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
         "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
-        "price": 193.19,
+        "price": 193.32,
         "original_price": null,
         "currency": "USD",
         "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
@@ -264,16 +264,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 626621.23131
+        "price_cop": 626767.6952804399
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-08-28T10:21:06.313903",
-          "price": 460978.123104,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-01T16:17:32.303660",
           "price": 510713.27986491006,
@@ -518,6 +513,11 @@
           "timestamp": "2026-11-09T22:04:56.338637",
           "price": 686172.79095,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-10T06:36:09.083498",
+          "price": 685871.64254385,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 686172.79095
+        "price_cop": 685871.64254385
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-09-02T03:39:47.339379",
-          "price": 1574007.0364318301,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-02T16:14:08.608529",
           "price": 1843917.58442661,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-09T22:04:56.338637",
           "price": 1515645.57672,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-10T06:36:09.083498",
+          "price": 1520556.844023,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15 Pro, 128GB, Negro Titanio - Desbloqueado (Renovado)",
-        "price": 467.28,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 469.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-Negro-Titanio/dp/B0CMZKHTQM",
-        "image": "https://m.media-amazon.com/images/I/71hDhuRKjqL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1515645.57672
+        "price_cop": 1520556.844023
       }
     }
   }
