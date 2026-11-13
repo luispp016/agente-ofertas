@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-12T19:41:08.107336",
+  "last_updated": "2026-11-13T05:46:47.851165",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-09-04T03:39:51.904184",
-          "price": 630787.0594010999,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-05T03:39:45.042070",
           "price": 624275.87112,
@@ -252,28 +247,28 @@
           "timestamp": "2026-11-12T19:41:08.107336",
           "price": 637374.7224702,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-13T05:46:47.851165",
+          "price": 512108.39798768,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
-        "price": 193.05,
+        "title": "Nintendo 64 (Renewed)",
+        "price": 155.72,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
-        "image": "https://m.media-amazon.com/images/I/71qccaRKQVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-64-Renewed/dp/B0FFWNSDN2",
+        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 637374.7224702
+        "price_cop": 512108.39798768
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-09-02T16:14:08.608529",
-          "price": 475443.478972,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-03T03:39:08.593145",
           "price": 506851.25005686004,
@@ -518,19 +513,24 @@
           "timestamp": "2026-11-12T19:41:08.107336",
           "price": 698454.4032042,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-13T05:46:47.851165",
+          "price": 614944.44733956,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
-        "price": 211.55,
+        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
+        "price": 186.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
-        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
+        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 698454.4032042
+        "price_cop": 614944.44733956
       }
     },
     "iPhone 15 128GB": {
