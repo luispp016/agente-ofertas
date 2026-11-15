@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-14T17:47:23.220073",
+  "last_updated": "2026-11-15T05:34:50.785827",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-09-05T14:50:35.531010",
-          "price": 598894.958178,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-06T03:41:50.475726",
           "price": 598849.4887068,
@@ -252,28 +247,28 @@
           "timestamp": "2026-11-14T17:47:23.220073",
           "price": 649038.3159131899,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-15T05:34:50.785827",
+          "price": 637340.642924,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch Game Console - Black (HAC-001(-01) w/Blue & Red Joycon (Renewed)",
-        "price": 197.51,
+        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
+        "price": 194.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Game-Console-HAC-001-Renewed/dp/B081XLG3JJ",
-        "image": "https://m.media-amazon.com/images/I/71qccaRKQVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 649038.3159131899
+        "price_cop": 637340.642924
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-09-04T03:39:51.904184",
-          "price": 441629.80968022003,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-04T15:59:46.796951",
           "price": 504724.28924022004,
@@ -518,6 +513,11 @@
           "timestamp": "2026-11-14T17:47:23.220073",
           "price": 575035.26353931,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-15T05:34:50.785827",
+          "price": 574887.8304395401,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
@@ -530,16 +530,11 @@
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 575035.26353931
+        "price_cop": 574887.8304395401
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-09-04T15:59:46.796951",
-          "price": 1558465.19237178,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-05T03:39:45.042070",
           "price": 1544830.5483468003,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-14T17:47:23.220073",
           "price": 1541182.573861,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-15T05:34:50.785827",
+          "price": 2421270.24351246,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 15, 128 GB, azul - desbloqueado (reacondicionado prémium)",
-        "price": 469.0,
+        "title": "Apple iPhone 17, versión de EE. UU., 256GB, eSIM, azul niebla, desbloqueado (renovado)",
+        "price": 737.01,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-128-azul-reacondicionado/dp/B0CRJ1JNNS",
-        "image": "https://m.media-amazon.com/images/I/51-dI0OmzyL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-versi%C3%B3n-desbloqueado-renovado/dp/B0FRKS39NK",
+        "image": "https://m.media-amazon.com/images/I/41jF6OMkD8L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 1541182.573861
+        "price_cop": 2421270.24351246
       }
     }
   }
