@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-15T05:34:50.785827",
+  "last_updated": "2026-11-15T18:37:48.780156",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-09-06T03:41:50.475726",
-          "price": 598849.4887068,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-06T15:10:01.422707",
           "price": 624165.42129072,
@@ -252,19 +247,24 @@
           "timestamp": "2026-11-15T05:34:50.785827",
           "price": 637340.642924,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-15T18:37:48.780156",
+          "price": 511547.99747266003,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
-        "price": 194.0,
+        "title": "Nintendo 64 (Renewed)",
+        "price": 155.71,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
-        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-64-Renewed/dp/B0FFWNSDN2",
+        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 637340.642924
+        "price_cop": 511547.99747266003
       }
     },
     "Sony WH-1000XM4": {
@@ -536,11 +536,6 @@
     "iPhone 15 128GB": {
       "history": [
         {
-          "timestamp": "2026-09-05T03:39:45.042070",
-          "price": 1544830.5483468003,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-09-05T14:50:35.531010",
           "price": 1700111.2890168002,
           "store": "Amazon"
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-15T05:34:50.785827",
           "price": 2421270.24351246,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-15T18:37:48.780156",
+          "price": 3676207.110474,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 17, versión de EE. UU., 256GB, eSIM, azul niebla, desbloqueado (renovado)",
-        "price": 737.01,
+        "title": "Apple iPhone 17 Pro, versión estadounidense, 512 GB, eSIM, azul profundo, desbloqueado (renovado prémium)",
+        "price": 1119.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-iPhone-versi%C3%B3n-desbloqueado-renovado/dp/B0FRKS39NK",
-        "image": "https://m.media-amazon.com/images/I/41jF6OMkD8L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-estadounidense-profundo-desbloqueado-renovado/dp/B0G45YW56F",
+        "image": "https://m.media-amazon.com/images/I/411HUzfpsOL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 2421270.24351246
+        "price_cop": 3676207.110474
       }
     }
   }
