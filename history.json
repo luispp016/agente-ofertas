@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-16T05:34:08.118301",
+  "last_updated": "2026-11-16T21:46:45.483712",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-09-06T15:10:01.422707",
-          "price": 624165.42129072,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-07T03:41:10.184573",
           "price": 621820.9551974,
@@ -252,19 +247,24 @@
           "timestamp": "2026-11-15T18:37:48.780156",
           "price": 511547.99747266003,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-16T21:46:45.483712",
+          "price": 621869.216625,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo 64 (Renewed)",
-        "price": 155.71,
+        "title": "Nintendo Switch Lite Hand-Held Gaming Console - Gray (HDH-001) (Renewed)",
+        "price": 187.5,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-64-Renewed/dp/B0FFWNSDN2",
-        "image": "https://m.media-amazon.com/images/I/61S8YcokfcL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Lite-Hand-Held-Gaming-Console/dp/B081XKZW23",
+        "image": "https://m.media-amazon.com/images/I/51ZLYLoUxCL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 511547.99747266003
+        "price_cop": 621869.216625
       }
     },
     "Sony WH-1000XM4": {
