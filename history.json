@@ -1,13 +1,8 @@
 {
-  "last_updated": "2026-11-20T06:25:24.533410",
+  "last_updated": "2026-11-20T19:46:28.666700",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
-        {
-          "timestamp": "2026-09-07T03:41:10.184573",
-          "price": 621820.9551974,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-12T03:49:59.486417",
           "price": 589946.30407685,
@@ -252,28 +247,28 @@
           "timestamp": "2026-11-16T21:46:45.483712",
           "price": 621869.216625,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-20T19:46:28.666700",
+          "price": 735819.16065675,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Nintendo Switch Lite Hand-Held Gaming Console - Gray (HDH-001) (Renewed)",
-        "price": 187.5,
+        "title": "Nintendo Switch with Neon Blue and Red Joy-Con (Renewed)",
+        "price": 219.95,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Lite-Hand-Held-Gaming-Console/dp/B081XKZW23",
-        "image": "https://m.media-amazon.com/images/I/51ZLYLoUxCL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Nintendo-Switch-Neon-Renewed-Modos-juego/dp/B0BS9Y9L2Y",
+        "image": "https://m.media-amazon.com/images/I/51fBMSbTG4L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 621869.216625
+        "price_cop": 735819.16065675
       }
     },
     "Sony WH-1000XM4": {
       "history": [
-        {
-          "timestamp": "2026-09-05T03:39:45.042070",
-          "price": 504433.8213156001,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-06T03:41:50.475726",
           "price": 504395.52354936005,
@@ -518,28 +513,28 @@
           "timestamp": "2026-11-17T20:37:56.318820",
           "price": 530479.37192694,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-20T19:46:28.666700",
+          "price": 585410.29744635,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM5/B Auriculares inalámbricos con Bluetooth con cancelación de ruido líder en la industria (renovado)",
-        "price": 159.99,
+        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
+        "price": 174.99,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM5-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B0B2FCT81R",
-        "image": "https://m.media-amazon.com/images/I/519JPzTAdVL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
+        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 530479.37192694
+        "price_cop": 585410.29744635
       }
     },
     "iPhone 15 128GB": {
       "history": [
-        {
-          "timestamp": "2026-09-05T14:50:35.531010",
-          "price": 1700111.2890168002,
-          "store": "Amazon"
-        },
         {
           "timestamp": "2026-09-06T03:41:50.475726",
           "price": 1639387.91328,
@@ -784,19 +779,24 @@
           "timestamp": "2026-11-15T18:37:48.780156",
           "price": 3676207.110474,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-20T19:46:28.666700",
+          "price": 1504991.88817755,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Apple iPhone 17 Pro, versión estadounidense, 512 GB, eSIM, azul profundo, desbloqueado (renovado prémium)",
-        "price": 1119.0,
+        "title": "Apple iPhone 15, 128GB, negro - desbloqueado (renovado prémium)",
+        "price": 449.87,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Apple-estadounidense-profundo-desbloqueado-renovado/dp/B0G45YW56F",
-        "image": "https://m.media-amazon.com/images/I/411HUzfpsOL._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Apple-iPhone-128GB-negro-desbloqueado/dp/B0CRJ13WM7",
+        "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 3676207.110474
+        "price_cop": 1504991.88817755
       }
     }
   }
