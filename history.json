@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T20:52:17.010170",
+  "last_updated": "2026-11-28T06:58:01.581731",
   "products": {
     "Nintendo Switch OLED": {
       "history": [
@@ -270,11 +270,6 @@
     "Sony WH-1000XM4": {
       "history": [
         {
-          "timestamp": "2026-09-06T03:41:50.475726",
-          "price": 504395.52354936005,
-          "store": "Amazon"
-        },
-        {
           "timestamp": "2026-09-07T03:41:10.184573",
           "price": 502500.93252870004,
           "store": "Amazon"
@@ -518,19 +513,24 @@
           "timestamp": "2026-11-20T19:46:28.666700",
           "price": 585410.29744635,
           "store": "Amazon"
+        },
+        {
+          "timestamp": "2026-11-28T06:58:01.581731",
+          "price": 707835.95586,
+          "store": "Amazon"
         }
       ],
       "best_deal": {
-        "title": "Sony WH-1000XM4 Auriculares inalámbricos con cancelación de ruido - Negro (renovado)",
-        "price": 174.99,
+        "title": "Sony WH-1000XM4C (M4 2.ª generación) Auriculares inalámbricos con",
+        "price": 198.0,
         "original_price": null,
         "currency": "USD",
-        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4-Auriculares-inal%C3%A1mbricos-cancelaci%C3%B3n/dp/B08HDKHSSN",
-        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY218_.jpg",
+        "url": "https://www.amazon.com/-/es/Sony-WH-1000XM4C-Auriculares-inal%C3%A1mbricos-Cancelaci%C3%B3n/dp/B0HFB8N519",
+        "image": "https://m.media-amazon.com/images/I/61j8fZkKeoL._AC_UY218_.jpg",
         "store": "Amazon",
         "free_shipping": false,
         "condition": "new",
-        "price_cop": 585410.29744635
+        "price_cop": 707835.95586
       }
     },
     "iPhone 15 128GB": {
